@@ -76,4 +76,4 @@ The dataset contains verified salary information of players, including:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/turkish-super-league-salary-analysis.git
+   git clone https://github.com/25akanksha/turkish-super-league-salary-analysis.git
