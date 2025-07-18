@@ -1,0 +1,542 @@
+Player,Verified,Gross P/W (EUR),Gross P/Y (EUR),Bonus P/Y (EUR),Signed,Expiration,Years Remaining,Gross Remaining (EUR),Release Clause (EUR),Status,Pos.,Pos. Detail,Age,Country,Club
+Rafa Silva,Yes,"€ 192,308","€ 10,000,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 30,000,000",,Starter,F,SS,31,Portugal,Besiktas
+Victor Osimhen,Yes,"€ 192,308","€ 10,000,000",,"Sep 4, 2024","Jun 30, 2025",1,"€ 10,000,000",,Starter,F,CF,26,Nigeria,Galatasaray
+Ciro Immobile,Yes,"€ 192,308","€ 10,000,000",,"Jul 12, 2024","Jun 30, 2026",2,"€ 20,000,000",,Starter,F,CF,34,Italy,Besiktas
+Mauro Icardi,Yes,"€ 192,308","€ 10,000,000",,"Jul 26, 2023","Jun 30, 2026",2,"€ 20,000,000",,Reserve,F,CF,31,Argentina,Galatasaray
+Milan Skriniar,Yes,"€ 144,231","€ 7,500,000",,"Jan 30, 2025","Jun 30, 2025",1,"€ 7,500,000",,Starter,D,CB,30,Slovakia,Fenerbahce
+Edin Dzeko,Yes,"€ 134,615","€ 7,000,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 7,000,000",,Reserve,F,CF,38,Bosnia-Herzegovina,Fenerbahce
+Fred,Yes,"€ 134,615","€ 7,000,000",,"Aug 13, 2023","Jun 30, 2027",3,"€ 21,000,000",,Starter,M,CM,31,Brazil,Fenerbahce
+Dusan Tadic,Yes,"€ 134,615","€ 7,000,000",,"Jul 16, 2023","Jun 30, 2025",1,"€ 7,000,000",,Starter,F,RW,36,Serbia,Fenerbahce
+Youssef En-Nesyri,Yes,"€ 128,269","€ 6,670,000",,"Jul 24, 2024","Jun 30, 2029",5,"€ 33,350,000",,Starter,F,CF,27,Morocco,Fenerbahce
+Talisca,No,"€ 128,269","€ 6,670,000","€ 3,330,000","Jan 27, 2025","Jun 30, 2026",2,"€ 13,340,000",,Starter,F,AM,31,Brazil,Fenerbahce
+Lucas Torreira,Yes,"€ 128,269","€ 6,670,000","€ 830,000","Apr 17, 2025","Jun 30, 2028",4,"€ 26,680,000",,Starter,M,DM,29,Uruguay,Galatasaray
+Diego Carlos,No,"€ 128,269","€ 6,670,000",,"Jan 23, 2025","Jun 30, 2028",4,"€ 26,680,000",,Reserve,D,CB,31,Brazil,Fenerbahce
+Krzysztof Piatek,No,"€ 112,115","€ 5,830,000",,"Jul 18, 2023","Jun 30, 2026",2,"€ 11,660,000",,Starter,F,CF,29,Poland,Basaksehir
+Davinson Sánchez,Yes,"€ 102,500","€ 5,330,000",,"Sep 4, 2023","Jun 30, 2027",3,"€ 15,990,000",,Starter,D,CB,28,Colombia,Galatasaray
+Stefan Savic,Yes,"€ 102,500","€ 5,330,000",,"Jul 26, 2024","Jun 30, 2027",3,"€ 15,990,000",,Starter,D,CB,34,Montenegro,Trabzonspor
+Álvaro Morata,Yes,"€ 96,154","€ 5,000,000",,"Feb 2, 2025","Jan 20, 2026",2,"€ 10,000,000",,Reserve,F,CF,32,Spain,Galatasaray
+Dries Mertens,Yes,"€ 92,885","€ 4,830,000","€ 1,830,000","Jun 1, 2024","Jun 30, 2025",1,"€ 4,830,000",,Starter,F,SS,37,Belgium,Galatasaray
+Gabriel Sara,Yes,"€ 88,077","€ 4,580,000",,"Aug 4, 2024","Jun 30, 2029",5,"€ 22,900,000",,Starter,M,CM,25,Brazil,Galatasaray
+Filip Kostić,Yes,"€ 80,192","€ 4,170,000",,"Sep 9, 2024","Jun 30, 2025",1,"€ 4,170,000",,Reserve,D,LB,32,Serbia,Fenerbahce
+Fernando Muslera,Yes,"€ 80,192","€ 4,170,000",,"Apr 19, 2024","Jun 30, 2025",1,"€ 4,170,000",,Starter,K,GK,38,Uruguay,Galatasaray
+Sebastian Szymański,Yes,"€ 80,192","€ 4,170,000",,"Jul 12, 2023","Jun 30, 2027",3,"€ 12,510,000",,Reserve,F,AM,25,Poland,Fenerbahce
+Sofyan Amrabat,No,"€ 80,192","€ 4,170,000",,"Aug 31, 2024","Sep 30, 2028",4,"€ 16,680,000",,Starter,M,DM,28,Morocco,Fenerbahce
+Alex Oxlade-Chamberlain,Yes,"€ 80,192","€ 4,170,000",,"Aug 12, 2023","Jun 30, 2026",2,"€ 8,340,000",,Starter,M,CM,31,England,Besiktas
+Roland Sallai,Yes,"€ 80,192","€ 4,170,000",,"Sep 13, 2024","Jun 30, 2028",4,"€ 16,680,000",,Reserve,F,RW,27,Hungary,Galatasaray
+Gabriel Paulista,Yes,"€ 67,885","€ 3,530,000","€ 550,000","Jul 1, 2024","Jun 30, 2027",3,"€ 10,590,000",,Reserve,D,CB,34,Brazil,Besiktas
+Ismail Jakobs,Yes,"€ 67,308","€ 3,500,000",,"Sep 2, 2024","Jun 30, 2025",1,"€ 3,500,000",,Reserve,D,LB,25,Senegal,Galatasaray
+Arthur Masuaku,Yes,"€ 65,385","€ 3,400,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 3,400,000",,Starter,D,LB,31,Democratic Republic of the Congo,Besiktas
+Miguel Crespo,No,"€ 64,038","€ 3,330,000",,"Aug 22, 2024","Jun 30, 2027",3,"€ 9,990,000",,Reserve,M,CM,28,Portugal,Basaksehir
+João Mário,Yes,"€ 64,038","€ 3,330,000",,"Sep 4, 2024","Jun 30, 2027",3,"€ 9,990,000",,Starter,M,CM,32,Portugal,Besiktas
+Milot Rashica,Yes,"€ 64,038","€ 3,330,000",,"Aug 16, 2023","Jun 30, 2027",3,"€ 9,990,000",,Starter,F,RW,28,Kosovo,Besiktas
+Çağlar Söyüncü,No,"€ 64,038","€ 3,330,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 9,990,000",,Reserve,D,CB,28,Turkey,Fenerbahce
+Ernest Muci,Yes,"€ 57,692","€ 3,000,000",,"Feb 9, 2024","Jun 30, 2027",3,"€ 9,000,000",,Reserve,F,LW,23,Albania,Besiktas
+Bright Osayi-Samuel,Yes,"€ 57,692","€ 3,000,000",,"Jan 28, 2021","Jun 30, 2025",1,"€ 3,000,000",,Reserve,D,RB,27,Nigeria,Fenerbahce
+Rodrigo Becão,Yes,"€ 57,692","€ 3,000,000",,"Jul 20, 2023","Jun 30, 2028",4,"€ 12,000,000",,Reserve,D,CB,29,Brazil,Fenerbahce
+Gedson Fernandes,Yes,"€ 54,423","€ 2,830,000",,"Sep 13, 2023","Jun 30, 2027",3,"€ 8,490,000",,Starter,M,CM,26,Portugal,Besiktas
+Felix Uduokhai,Yes,"€ 54,423","€ 2,830,000",,"Aug 26, 2024","Jun 30, 2027",3,"€ 8,490,000",,Starter,D,CB,27,Germany,Besiktas
+Alexander Djiku,Yes,"€ 54,423","€ 2,830,000",,"Jul 10, 2023","Jun 30, 2026",2,"€ 5,660,000",,Reserve,D,CB,30,Ghana,Fenerbahce
+Ui-jo Hwang,No,"€ 52,885","€ 2,750,000",,"Sep 6, 2024","Jun 30, 2025",1,"€ 2,750,000",,Starter,F,CF,32,South Korea,Alanyaspor
+Josip Brekalo,Yes,"€ 51,346","€ 2,670,000",,"Sep 6, 2024","Jun 30, 2025",1,"€ 2,670,000",,Reserve,F,LW,26,Croatia,Kasimpasa
+Dominik Livakovic,Yes,"€ 51,346","€ 2,670,000",,"Aug 25, 2023","Jun 30, 2028",4,"€ 10,680,000",,Reserve,K,GK,30,Croatia,Fenerbahce
+Antonín Barák,Yes,"€ 48,077","€ 2,500,000",,"Sep 7, 2024","Jun 30, 2025",1,"€ 2,500,000",,Reserve,F,AM,30,Czech Republic,Kasimpasa
+Vincent Aboubakar,No,"€ 48,077","€ 2,500,000",,"Sep 9, 2024","Jun 30, 2025",1,"€ 2,500,000",,Starter,F,CF,33,Cameroon,Hatayspor
+Edin Visca,Yes,"€ 48,077","€ 2,500,000",,"Jan 23, 2025","Jun 30, 2026",2,"€ 5,000,000",,Starter,F,RW,34,Bosnia-Herzegovina,Trabzonspor
+John Lundstram,Yes,"€ 48,077","€ 2,500,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 7,500,000",,Reserve,M,DM,30,England,Trabzonspor
+İrfan Can Kahveci,Yes,"€ 48,077","€ 2,500,000",,"Jan 12, 2025","Jun 30, 2028",4,"€ 10,000,000",,Reserve,F,RW,29,Turkey,Fenerbahce
+Kaan Ayhan,Yes,"€ 48,077","€ 2,500,000",,"Apr 30, 2025","Jun 30, 2027",3,"€ 7,500,000",,Reserve,D,CB,30,Turkey,Galatasaray
+Anthony Nwakaeme,Yes,"€ 48,077","€ 2,500,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 5,000,000",,Reserve,F,LW,35,Nigeria,Trabzonspor
+Rachid Ghezzal,No,"€ 48,077","€ 2,500,000",,"Sep 13, 2024","Jun 30, 2025",1,"€ 2,500,000",,Reserve,F,RW,32,Algeria,Caykur Rizespor
+Batista Mendy,Yes,"€ 45,769","€ 2,380,000",,"Sep 7, 2023","Jun 30, 2027",3,"€ 7,140,000",,Starter,M,DM,25,France,Trabzonspor
+Muhammed Cham,Yes,"€ 44,231","€ 2,300,000",,"Aug 24, 2024","Jun 30, 2028",4,"€ 9,200,000",,Starter,F,AM,24,Austria,Trabzonspor
+Uğurcan Çakır,No,"€ 41,731","€ 2,170,000",,"Sep 8, 2022","Jun 30, 2027",3,"€ 6,510,000",,Starter,K,GK,28,Turkey,Trabzonspor
+Sam Larsson,No,"€ 41,731","€ 2,170,000",,"Jun 1, 2024","Jun 30, 2025",1,"€ 2,170,000",,Starter,F,AM,31,Sweden,Antalyaspor
+Abdülkadir Ömür,No,"€ 41,538","€ 2,160,000",,"Feb 10, 2025","Jun 30, 2025",1,"€ 2,160,000",,Starter,F,AM,25,Turkey,Caykur Rizespor
+Cenk Tosun,No,"€ 40,000","€ 2,080,000",,"Jul 16, 2024","Jun 30, 2026",2,"€ 4,160,000",,Reserve,F,CF,33,Turkey,Fenerbahce
+Emre Mor,Yes,"€ 40,000","€ 2,080,000",,"Sep 13, 2024","Jun 30, 2025",1,"€ 2,080,000",,Starter,F,RW,27,Turkey,Eyupspor
+Al Musrati,Yes,"€ 40,000","€ 2,080,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 6,240,000",,Reserve,M,DM,28,Libya,Besiktas
+Mario Lemina,Yes,"€ 40,000","€ 2,080,000",,"Feb 5, 2025","Jun 30, 2026",2,"€ 4,160,000",,Reserve,M,DM,31,Gabon,Galatasaray
+Lucas Lima,No,"€ 39,038","€ 2,030,000",,"Jul 21, 2022","Jun 30, 2025",1,"€ 2,030,000",,Starter,D,LB,33,Brazil,Basaksehir
+Léo Dubois,No,"€ 38,462","€ 2,000,000",,"Sep 6, 2024","Jun 30, 2025",1,"€ 2,000,000",,Reserve,D,RB,30,France,Eyupspor
+Ozan Tufan,Yes,"€ 38,462","€ 2,000,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 6,000,000",,Starter,M,CM,29,Turkey,Trabzonspor
+Mert Müldür,Yes,"€ 38,462","€ 2,000,000",,"Aug 2, 2023","Jun 30, 2027",3,"€ 6,000,000",,Starter,D,RB,25,Turkey,Fenerbahce
+Baktiyar Zaynutdinov,Yes,"€ 38,462","€ 2,000,000",,"Aug 21, 2023","Jun 30, 2027",3,"€ 6,000,000",,Reserve,D,LB,26,Kazakhstan,Besiktas
+Okay Yokuşlu,Yes,"€ 38,462","€ 2,000,000",,"Jul 31, 2024","Jun 30, 2027",3,"€ 6,000,000",,Reserve,M,DM,30,Turkey,Trabzonspor
+Moussa Djenepo,No,"€ 38,462","€ 2,000,000",,"Jul 12, 2024","Jun 30, 2025",1,"€ 2,000,000",,Reserve,F,LW,26,Mali,Antalyaspor
+David Tijanic,No,"€ 38,077","€ 1,980,000",,"Jul 27, 2021","Jun 30, 2026",2,"€ 3,960,000",,Reserve,F,AM,27,Slovenia,Goztepe
+Amir Hadziahmetovic,Yes,"€ 37,115","€ 1,930,000","€ 630,000","Feb 2, 2023","Jun 30, 2027",3,"€ 5,790,000",,Reserve,M,DM,27,Bosnia-Herzegovina,Besiktas
+Berat Özdemir,Yes,"€ 36,923","€ 1,920,000",,"Aug 10, 2024","Jun 30, 2025",1,"€ 1,920,000",,Starter,M,DM,26,Turkey,Basaksehir
+Emrecan Uzunhan,Yes,"€ 35,192","€ 1,830,000",,"Aug 6, 2024","Jun 30, 2025",1,"€ 1,830,000",,Reserve,D,CB,23,Turkey,Antalyaspor
+Adolfo Gaich,No,"€ 33,654","€ 1,750,000",,"Aug 13, 2024","Jun 30, 2025",1,"€ 1,750,000",,Reserve,F,CF,25,Argentina,Antalyaspor
+Landry Dimata,No,"€ 32,692","€ 1,700,000",,"Sep 1, 2023","Jun 30, 2026",2,"€ 3,400,000",,Starter,F,LW,27,Belgium,Samsunspor
+Enis Bardhi,No,"€ 32,115","€ 1,670,000",,"Jan 23, 2025","Jun 30, 2025",1,"€ 1,670,000",,Reserve,F,AM,29,North Macedonia,Bodrum
+Tonny Vilhena,No,"€ 32,115","€ 1,670,000",,"Feb 7, 2025","Jun 30, 2025",1,"€ 1,670,000",,Reserve,M,CM,30,Netherlands,Alanyaspor
+Jonas Svensson,No,"€ 32,115","€ 1,670,000",,"May 28, 2025","Jun 30, 2026",2,"€ 3,340,000",,Starter,D,RB,32,Norway,Besiktas
+George Pușcaș,No,"€ 32,115","€ 1,670,000",,"Aug 14, 2024","Jun 30, 2027",3,"€ 5,010,000",,Starter,F,CF,28,Romania,Bodrum
+Sergio Córdova,No,"€ 32,115","€ 1,670,000",,"Sep 15, 2023","Jun 30, 2027",3,"€ 5,010,000",,Starter,F,CF,27,Venezuela,Alanyaspor
+Mert Günok,No,"€ 32,115","€ 1,670,000",,"Jan 17, 2025","Jun 30, 2027",3,"€ 5,010,000",,Starter,K,GK,35,Turkey,Besiktas
+Kerem Demirbay,Yes,"€ 32,115","€ 1,670,000",,"Aug 3, 2023","Jun 30, 2026",2,"€ 3,340,000",,Reserve,M,CM,31,Germany,Galatasaray
+Samet Akaydin,No,"€ 32,115","€ 1,670,000",,"Jan 24, 2025","Jun 30, 2026",2,"€ 3,340,000",,Reserve,D,CB,30,Turkey,Caykur Rizespor
+Léo Duarte,No,"€ 32,115","€ 1,670,000",,"Jul 8, 2022","Jun 30, 2026",2,"€ 3,340,000",,Starter,D,CB,28,Brazil,Basaksehir
+Deniz Türüç,No,"€ 32,115","€ 1,670,000",,"Sep 13, 2023","Jun 30, 2026",2,"€ 3,340,000",,Starter,F,RW,32,Turkey,Basaksehir
+Halil Dervişoğlu,Yes,"€ 30,769","€ 1,600,000",,"Sep 13, 2024","Jun 30, 2025",1,"€ 1,600,000",,Starter,F,CF,25,Turkey,Gaziantep BB
+Alexandru Maxim,No,"€ 29,808","€ 1,550,000",,"Feb 23, 2024","Jun 30, 2025",1,"€ 1,550,000",,Starter,F,AM,34,Romania,Gaziantep BB
+Ali Sowe,No,"€ 29,808","€ 1,550,000",,"Jul 3, 2024","Jun 30, 2025",1,"€ 1,550,000",,Starter,F,CF,30,The Gambia,Caykur Rizespor
+Guilherme,No,"€ 29,423","€ 1,530,000",,"Sep 13, 2023","Jun 30, 2025",1,"€ 1,530,000",,Starter,D,LB,34,Brazil,Konyaspor
+Ousseynou Ba,No,"€ 28,846","€ 1,500,000",,"Jul 13, 2024","Jun 30, 2027",3,"€ 4,500,000",,Reserve,D,CB,29,Senegal,Basaksehir
+Elias Jelert,Yes,"€ 28,846","€ 1,500,000",,"Jul 25, 2024","Jun 30, 2029",5,"€ 7,500,000",,Reserve,D,RB,21,Denmark,Galatasaray
+Queensy Menig,No,"€ 28,846","€ 1,500,000",,"Feb 8, 2024","Jun 30, 2026",2,"€ 3,000,000",,Reserve,F,LW,29,Netherlands,Sivasspor
+Ivo Grbic,No,"€ 28,846","€ 1,500,000",,"Sep 9, 2024","Jun 30, 2025",1,"€ 1,500,000",,Reserve,K,GK,29,Croatia,Caykur Rizespor
+Olivier Ntcham,No,"€ 28,846","€ 1,500,000",,"Aug 7, 2023","Jun 30, 2026",2,"€ 3,000,000",,Reserve,F,AM,29,Cameroon,Samsunspor
+Rey Manaj,No,"€ 28,846","€ 1,500,000",,"Jan 3, 2025","Jun 30, 2026",2,"€ 3,000,000",,Starter,F,CF,27,Albania,Sivasspor
+Stefano Denswil,Yes,"€ 28,269","€ 1,470,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 1,470,000",,Reserve,D,CB,31,Suriname,Trabzonspor
+Yusuf Demir,Yes,"€ 27,308","€ 1,420,000",,"Sep 8, 2022","Jun 30, 2026",2,"€ 2,840,000",,Reserve,F,RW,21,Austria,Galatasaray
+Przemyslaw Frankowski,No,"€ 27,308","€ 1,420,000",,"Feb 10, 2025","Jun 30, 2025",1,"€ 1,420,000",,Starter,D,RB,29,Poland,Galatasaray
+Arbnor Muja,No,"€ 26,923","€ 1,400,000",,"Feb 9, 2024","Jun 30, 2027",3,"€ 4,200,000",,Reserve,F,RW,26,Albania,Samsunspor
+Pedro Malheiro,Yes,"€ 26,538","€ 1,380,000",,"Jul 23, 2024","Jun 30, 2028",4,"€ 5,520,000",,Starter,D,RB,24,Portugal,Trabzonspor
+Salih Uçan,Yes,"€ 26,346","€ 1,370,000",,"Jun 28, 2024","Jun 30, 2026",2,"€ 2,740,000",,Reserve,M,CM,31,Turkey,Besiktas
+Flavien Tait,No,"€ 25,577","€ 1,330,000",,"Sep 6, 2023","Jun 30, 2026",2,"€ 2,660,000",,Reserve,M,CM,32,France,Samsunspor
+Oğuz Aydın,Yes,"€ 25,577","€ 1,330,000",,"Jul 15, 2024","Jun 30, 2028",4,"€ 5,320,000",,Starter,F,LW,24,Turkey,Fenerbahce
+Kingsley Schindler,No,"€ 25,577","€ 1,330,000",,"Jul 26, 2023","Jun 30, 2025",1,"€ 1,330,000",,Reserve,F,RW,31,Ghana,Samsunspor
+Badou Ndiaye,No,"€ 25,577","€ 1,330,000",,"Sep 4, 2024","Jun 30, 2026",2,"€ 2,660,000",,Starter,M,CM,34,Senegal,Gaziantep BB
+Jayden Oosterwolde,Yes,"€ 25,577","€ 1,330,000",,"Jan 30, 2023","Jun 30, 2027",3,"€ 3,990,000",,Reserve,D,LB,23,Netherlands,Fenerbahce
+Serdar Aziz,No,"€ 24,615","€ 1,280,000",,"May 20, 2022","Jun 30, 2025",1,"€ 1,280,000",,Reserve,D,CB,34,Turkey,Fenerbahce
+Borna Barisic,Yes,"€ 24,038","€ 1,250,000","€ 550,000","Jul 1, 2024","Jun 30, 2026",2,"€ 2,500,000",,Reserve,D,LB,32,Croatia,Trabzonspor
+Abdülkerim Bardakcı,Yes,"€ 24,038","€ 1,250,000",,"Jun 2, 2025","Jun 30, 2027",3,"€ 3,750,000",,Starter,D,CB,30,Turkey,Galatasaray
+Jean Onana,Yes,"€ 24,038","€ 1,250,000",,"Jul 21, 2023","Jun 30, 2027",3,"€ 3,750,000",,Reserve,M,DM,25,Cameroon,Besiktas
+Oleksandr Zubkov,Yes,"€ 23,462","€ 1,220,000",,"Feb 3, 2025","Jun 30, 2029",5,"€ 6,100,000",,Reserve,F,RW,28,Ukraine,Trabzonspor
+Florent Hadergjonaj,No,"€ 23,077","€ 1,200,000",,"Aug 7, 2023","Jun 30, 2025",1,"€ 1,200,000",,Reserve,D,RB,30,Kosovo,Alanyaspor
+Serdar Gürler,No,"€ 22,500","€ 1,170,000",,"Jan 13, 2022","Jun 30, 2025",1,"€ 1,170,000",,Reserve,F,LW,33,Turkey,Basaksehir
+Umut Nayir,No,"€ 22,500","€ 1,170,000",,"Jul 27, 2024","Jun 30, 2026",2,"€ 2,340,000",,Reserve,F,CF,31,Turkey,Konyaspor
+Ersin Destanoğlu,Yes,"€ 22,500","€ 1,170,000",,"Oct 1, 2022","Jun 30, 2026",2,"€ 2,340,000",,Reserve,K,GK,24,Turkey,Besiktas
+Berkay Özcan,No,"€ 22,500","€ 1,170,000",,"Feb 11, 2025","Jun 30, 2025",1,"€ 1,170,000",,Reserve,M,CM,26,Turkey,Caykur Rizespor
+Umut Bozok,No,"€ 22,500","€ 1,170,000",,"Feb 3, 2025","Jun 30, 2026",2,"€ 2,340,000",,Reserve,F,CF,28,Turkey,Eyupspor
+Andros Townsend,No,"€ 22,308","€ 1,160,000",,"Aug 13, 2024","Jun 30, 2026",2,"€ 2,320,000",,Reserve,F,RW,33,England,Antalyaspor
+João Figueiredo,No,"€ 21,154","€ 1,100,000",,"Feb 17, 2023","Jun 30, 2026",2,"€ 2,200,000",,Reserve,F,CF,28,Brazil,Basaksehir
+Ertuğrul Taşkıran,No,"€ 21,154","€ 1,100,000",,"Sep 5, 2024","Jun 30, 2026",2,"€ 2,200,000",,Starter,K,GK,35,Turkey,Alanyaspor
+Richard,No,"€ 21,154","€ 1,100,000",,"Sep 5, 2024","Jun 30, 2027",3,"€ 3,300,000",,Reserve,M,DM,30,Brazil,Alanyaspor
+Yusuf Sarı,No,"€ 20,769","€ 1,080,000",,"Jan 13, 2025","Jun 30, 2028",4,"€ 4,320,000",,Starter,F,RW,26,Turkey,Basaksehir
+Carlos Cuesta,Yes,"€ 20,769","€ 1,080,000",,"Feb 5, 2025","Jun 30, 2028",4,"€ 4,320,000",,Starter,D,CB,25,Colombia,Galatasaray
+Giannis Papanikolaou,No,"€ 20,769","€ 1,080,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 3,240,000",,Starter,M,DM,26,Greece,Caykur Rizespor
+Günay Güvenç,Yes,"€ 20,577","€ 1,070,000",,"Aug 1, 2023","Jun 30, 2026",2,"€ 2,140,000",,Reserve,K,GK,33,Turkey,Galatasaray
+Carlos Strandberg,No,"€ 19,615","€ 1,020,000",,"Jul 1, 2023","Jun 30, 2027",3,"€ 3,060,000",,Reserve,F,CF,28,Sweden,Hatayspor
+Burak Kapacak,Yes,"€ 19,231","€ 1,000,000",,"Aug 9, 2021","Jun 30, 2026",2,"€ 2,000,000",,Reserve,F,RW,25,Turkey,Fenerbahce
+Alassane Ndao,No,"€ 19,231","€ 1,000,000",,"Jan 26, 2024","Jun 30, 2026",2,"€ 2,000,000",,Starter,F,RW,28,Senegal,Konyaspor
+Umut Güneş,No,"€ 19,231","€ 1,000,000",,"Feb 11, 2025","Jun 30, 2028",4,"€ 4,000,000",,Starter,M,CM,24,Turkey,Basaksehir
+Christopher Operi,No,"€ 19,231","€ 1,000,000",,"Jan 13, 2025","Jun 30, 2027",3,"€ 3,000,000",,Reserve,D,LB,27,Cote d'Ivoire,Basaksehir
+David Okereke,Yes,"€ 19,231","€ 1,000,000",,"Sep 10, 2024","Jun 30, 2025",1,"€ 1,000,000",,Starter,F,CF,27,Nigeria,Gaziantep BB
+Onur Bulut,No,"€ 19,231","€ 1,000,000",,"Feb 8, 2023","Jun 30, 2026",2,"€ 2,000,000",,Reserve,D,RB,30,Turkey,Besiktas
+Olivier Kemen,No,"€ 19,231","€ 1,000,000",,"Jan 30, 2024","Jun 30, 2027",3,"€ 3,000,000",,Reserve,M,CM,28,Cameroon,Basaksehir
+Emirhan Topçu,Yes,"€ 19,231","€ 1,000,000",,"Aug 2, 2024","Jun 30, 2028",4,"€ 4,000,000",,Starter,D,CB,24,Turkey,Besiktas
+Mame Thiam,No,"€ 19,231","€ 1,000,000",,"Jul 24, 2024","Jun 30, 2026",2,"€ 2,000,000",,Starter,F,CF,32,Senegal,Eyupspor
+Koray Günter,Yes,"€ 19,231","€ 1,000,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 1,000,000",,Reserve,D,CB,30,Germany,Goztepe
+Élan Ricardo,Yes,"€ 18,654","€ 970,000",,"Feb 11, 2025","Jun 30, 2029",5,"€ 4,850,000",,Reserve,M,CM,20,Colombia,Besiktas
+Yunus Akgün,Yes,"€ 17,692","€ 920,000",,"Nov 1, 2019","Jun 30, 2026",2,"€ 1,840,000",,Reserve,F,RW,24,Turkey,Galatasaray
+Can Keleş,Yes,"€ 17,692","€ 920,000",,"Jan 25, 2025","Jun 30, 2025",1,"€ 920,000",,Reserve,F,RW,23,Austria,Kasimpasa
+Victor Nelsson,Yes,"€ 17,692","€ 920,000",,"Aug 11, 2021","Jun 30, 2026",2,"€ 1,840,000",,Reserve,D,CB,26,Denmark,Galatasaray
+Hasan Ali Kaldırım,No,"€ 17,692","€ 920,000",,"Sep 15, 2023","Jun 30, 2025",1,"€ 920,000",,Reserve,D,LB,35,Turkey,Kayserispor
+Riechedly Bazoer,No,"€ 17,500","€ 910,000",,"Sep 11, 2024","Jun 30, 2026",2,"€ 1,820,000",,Starter,D,CB,28,Curacao,Konyaspor
+Nabil Alioui,No,"€ 17,308","€ 900,000",,"Feb 2, 2024","Jun 30, 2026",2,"€ 1,800,000",,Starter,F,AM,25,France,Adana Demirspor
+Ahmed Kutucu,Yes,"€ 17,308","€ 900,000",,"Jan 23, 2025","Jun 30, 2028",4,"€ 3,600,000",,Starter,F,LW,24,Turkey,Galatasaray
+Sinan Bolat,No,"€ 17,308","€ 900,000",,"Feb 5, 2025","Jun 30, 2025",1,"€ 900,000",,Reserve,K,GK,36,Turkey,Kasimpasa
+Onurcan Piri,No,"€ 16,731","€ 870,000",,"Sep 15, 2023","Jun 30, 2026",2,"€ 1,740,000",,Reserve,K,GK,30,Turkey,Kayserispor
+Dimitrios Kolovetsios,No,"€ 16,731","€ 870,000",,"Mar 22, 2023","Jun 30, 2025",1,"€ 870,000",,Starter,D,CB,33,Greece,Kayserispor
+Levent Mercan,No,"€ 16,346","€ 850,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 3,400,000",,Starter,D,LB,24,Turkey,Fenerbahce
+Mert Hakan Yandaş,Yes,"€ 16,346","€ 850,000",,"Jun 21, 2024","Jun 30, 2026",2,"€ 1,700,000",,Starter,F,AM,30,Turkey,Fenerbahce
+Braian Samudio,No,"€ 16,154","€ 840,000",,"Jul 28, 2024","Jun 30, 2026",2,"€ 1,680,000",,Starter,F,CF,29,Paraguay,Antalyaspor
+Stéphane Bahoken,No,"€ 16,154","€ 840,000",,"Jul 9, 2024","Jun 30, 2025",1,"€ 840,000",,Reserve,F,CF,32,Cameroon,Kayserispor
+Kévin Rodrigues,No,"€ 16,154","€ 840,000",,"Jun 20, 2025","Jun 30, 2026",2,"€ 1,680,000",,Starter,D,LB,31,Portugal,Kasimpasa
+Denis Drăguș,No,"€ 16,154","€ 840,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 3,360,000",,Reserve,F,CF,25,Romania,Trabzonspor
+Samuel Moutoussamy,No,"€ 16,154","€ 840,000",,"Aug 22, 2024","Jun 30, 2026",2,"€ 1,680,000",,Starter,M,CM,28,Democratic Republic of the Congo,Sivasspor
+Danylo Sikan,Yes,"€ 16,154","€ 840,000",,"Jan 22, 2025","Jun 30, 2029",5,"€ 4,200,000",,Starter,F,CF,23,Ukraine,Trabzonspor
+Simon Banza,Yes,"€ 15,962","€ 830,000",,"Sep 3, 2024","Jun 30, 2025",1,"€ 830,000",,Starter,F,CF,28,Democratic Republic of the Congo,Trabzonspor
+Necip Uysal,Yes,"€ 15,962","€ 830,000",,"Feb 17, 2025","Jun 30, 2027",3,"€ 2,490,000",,Reserve,D,CB,34,Turkey,Besiktas
+Andraz Sporar,No,"€ 15,962","€ 830,000",,"Feb 11, 2025","Jun 30, 2027",3,"€ 2,490,000",,Starter,F,CF,30,Slovenia,Alanyaspor
+Rony Lopes,No,"€ 15,962","€ 830,000",,"Aug 16, 2024","Jun 30, 2026",2,"€ 1,660,000",,Reserve,F,RW,29,Portugal,Alanyaspor
+Efkan Bekiroğlu,No,"€ 15,962","€ 830,000",,"Jan 13, 2025","Jun 30, 2025",1,"€ 830,000",,Starter,F,AM,29,Turkey,Sivasspor
+Carlos Mané,No,"€ 15,962","€ 830,000",,"Jun 19, 2024","Jun 30, 2026",2,"€ 1,660,000",,Starter,F,LW,30,Guinea-Bissau,Kayserispor
+İsmail Yüksek,Yes,"€ 15,962","€ 830,000","€ 170,000","Jan 20, 2023","Jun 30, 2027",3,"€ 2,490,000",,Reserve,M,DM,26,Turkey,Fenerbahce
+Emmanuel Boateng,No,"€ 15,962","€ 830,000",,"Jan 13, 2025","Jun 30, 2026",2,"€ 1,660,000",,Reserve,F,CF,28,Ghana,Gaziantep BB
+Emre Kılınç,No,"€ 15,962","€ 830,000",,"Aug 4, 2023","Jun 30, 2026",2,"€ 1,660,000",,Starter,F,LW,30,Turkey,Samsunspor
+Taras Stepanenko,No,"€ 15,962","€ 830,000",,"Feb 1, 2025","Jun 30, 2026",2,"€ 1,660,000",,Reserve,M,DM,35,Ukraine,Eyupspor
+Baris Yilmaz,Yes,"€ 15,385","€ 800,000",,"May 4, 2023","Jun 30, 2027",3,"€ 2,400,000",,Starter,F,RW,24,Turkey,Galatasaray
+Cihan Çanak,Yes,"€ 15,000","€ 780,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 2,340,000",,Reserve,F,AM,20,Turkey,Trabzonspor
+Fidan Aliti,No,"€ 14,808","€ 770,000",,"Jul 25, 2023","Jun 30, 2026",2,"€ 1,540,000",,Starter,D,CB,31,Kosovo,Alanyaspor
+Hüseyin Türkmen,Yes,"€ 14,808","€ 770,000",,"Nov 17, 2022","Jun 30, 2027",3,"€ 2,310,000",,Reserve,D,CB,27,Turkey,Trabzonspor
+Taylan Antalyalı,Yes,"€ 14,808","€ 770,000",,"Sep 7, 2024","Jun 30, 2025",1,"€ 770,000",,Starter,M,CM,30,Turkey,Bodrum
+Jure Balkovec,No,"€ 14,808","€ 770,000",,"Jul 15, 2024","Jun 30, 2026",2,"€ 1,540,000",,Starter,D,LB,30,Slovenia,Alanyaspor
+Noah Sonko Sundberg,No,"€ 14,423","€ 750,000",,"Aug 9, 2024","Jun 30, 2025",1,"€ 750,000",,Starter,D,CB,28,The Gambia,Sivasspor
+Veljko Simic,No,"€ 14,423","€ 750,000",,"Feb 1, 2025","Jun 30, 2027",3,"€ 2,250,000",,Starter,F,LW,29,Serbia,Sivasspor
+Ramazan Civelek,No,"€ 14,423","€ 750,000",,"Nov 8, 2022","Jun 30, 2025",1,"€ 750,000",,Starter,F,RW,29,Turkey,Kayserispor
+Emre Akbaba,No,"€ 14,423","€ 750,000",,"Jul 2, 2024","Jun 30, 2026",2,"€ 1,500,000",,Reserve,F,AM,32,Turkey,Eyupspor
+Jonathan Okita,No,"€ 14,423","€ 750,000",,"Jan 13, 2025","Jun 30, 2027",3,"€ 2,250,000",,Starter,F,LW,28,Democratic Republic of the Congo,Bodrum
+Mehdi Bourabia,No,"€ 14,423","€ 750,000",,"Jul 31, 2024","Jun 30, 2025",1,"€ 750,000",,Starter,M,CM,33,Morocco,Kayserispor
+Charilaos Charisis,No,"€ 14,423","€ 750,000",,"Dec 10, 2024","Jun 30, 2028",4,"€ 3,000,000",,Starter,M,CM,30,Greece,Sivasspor
+Kacper Kozlowski,No,"€ 14,423","€ 750,000",,"Jul 19, 2024","Jun 30, 2027",3,"€ 2,250,000",,Starter,F,AM,21,Poland,Gaziantep BB
+Gaius Makouta,No,"€ 14,423","€ 750,000",,"Jul 25, 2024","Jun 30, 2027",3,"€ 2,250,000",,Starter,M,CM,27,Congo,Alanyaspor
+Garry Rodrigues,No,"€ 14,423","€ 750,000",,"Sep 13, 2024","Jun 30, 2025",1,"€ 750,000",,Reserve,F,LW,34,Cape Verde,Sivasspor
+Duckens Nazon,No,"€ 14,423","€ 750,000",,"Feb 9, 2024","Jun 30, 2026",2,"€ 1,500,000",,Reserve,F,CF,30,Haiti,Kayserispor
+Fredrik Midtsjø,No,"€ 14,423","€ 750,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 750,000",,Reserve,M,CM,31,Norway,Eyupspor
+Dorukhan Toköz,No,"€ 14,423","€ 750,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 750,000",,Reserve,M,CM,28,Turkey,Eyupspor
+Alex Pritchard,No,"€ 14,423","€ 750,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 1,500,000",,Reserve,F,AM,31,England,Sivasspor
+Sander van de Streek,No,"€ 14,423","€ 750,000",,"Mar 10, 2025","Jun 30, 2026",2,"€ 1,500,000",,Starter,F,AM,31,Netherlands,Antalyaspor
+Miguel Cardoso,No,"€ 14,423","€ 750,000",,"May 30, 2024","Jun 30, 2027",3,"€ 2,250,000",,Starter,F,RW,30,Portugal,Kayserispor
+Rick van Drongelen,No,"€ 14,038","€ 730,000",,"Jul 11, 2023","Jun 30, 2026",2,"€ 1,460,000",,Starter,D,CB,26,Netherlands,Samsunspor
+Youssef Aït Bennasser,No,"€ 14,038","€ 730,000",,"Feb 17, 2023","Jun 30, 2025",1,"€ 730,000",,Starter,M,DM,28,Morocco,Samsunspor
+Onur Ergün,No,"€ 14,038","€ 730,000",,"Jun 1, 2024","Jun 30, 2025",1,"€ 730,000",,Reserve,M,DM,32,Turkey,Basaksehir
+Deni Milosevic,No,"€ 13,846","€ 720,000",,"Sep 13, 2024","Jun 30, 2026",2,"€ 1,440,000",,Reserve,F,AM,29,Bosnia-Herzegovina,Antalyaspor
+Yaw Ackah,No,"€ 13,462","€ 700,000",,"Mar 22, 2023","Jun 30, 2026",2,"€ 1,400,000",,Starter,M,DM,25,Ghana,Kayserispor
+Marc Bola,No,"€ 13,462","€ 700,000",,"Jul 9, 2023","Jun 30, 2025",1,"€ 700,000",,Starter,D,LB,27,England,Samsunspor
+Muhammed Şengezer,No,"€ 13,462","€ 700,000",,"Dec 26, 2022","Jun 30, 2026",2,"€ 1,400,000",,Starter,K,GK,28,Turkey,Basaksehir
+Halil Akbunar,No,"€ 13,077","€ 680,000",,"Jan 12, 2023","Jun 30, 2026",2,"€ 1,360,000",,Starter,F,RW,31,Turkey,Eyupspor
+Majid Hosseini,No,"€ 12,885","€ 670,000",,"Jun 23, 2025","Jun 30, 2027",3,"€ 2,010,000",,Reserve,D,CB,29,Iran,Kayserispor
+Adil Demirbağ,No,"€ 12,885","€ 670,000",,"Jun 15, 2024","Jun 30, 2027",3,"€ 2,010,000",,Starter,D,CB,27,Turkey,Konyaspor
+Andreaw Gravillon,No,"€ 12,885","€ 670,000",,"Jul 21, 2023","Jun 30, 2026",2,"€ 1,340,000",,Reserve,D,CB,27,Guadeloupe,Adana Demirspor
+Malcom Bokele,No,"€ 12,885","€ 670,000",,"Aug 14, 2024","Jun 30, 2027",3,"€ 2,010,000",,Starter,D,CB,25,Cameroon,Goztepe
+Güray Vural,No,"€ 12,885","€ 670,000",,"Dec 31, 2024","Jun 30, 2026",2,"€ 1,340,000",,Starter,D,LB,36,Turkey,Antalyaspor
+Keny Arroyo,Yes,"€ 12,885","€ 670,000",,"Feb 9, 2025","Jun 30, 2029",5,"€ 3,350,000",,Reserve,F,RW,18,Ecuador,Besiktas
+Serdar Saatçı,No,"€ 12,692","€ 660,000",,"Sep 5, 2024","Jun 30, 2028",4,"€ 2,640,000",,Reserve,D,CB,21,Turkey,Trabzonspor
+Luccas Claro,No,"€ 12,500","€ 650,000",,"Mar 29, 2025","Jun 30, 2027",3,"€ 1,950,000",,Starter,D,CB,33,Brazil,Eyupspor
+Evren Eren Elmali,Yes,"€ 11,923","€ 620,000",,"Feb 11, 2025","Jun 30, 2028",4,"€ 2,480,000",,Reserve,D,LB,24,Turkey,Galatasaray
+Abat Aymbetov,No,"€ 11,923","€ 620,000",,"Feb 1, 2024","Jun 30, 2025",1,"€ 620,000",,Reserve,F,CF,29,Kazakhstan,Adana Demirspor
+Bilal Boutobba,No,"€ 11,538","€ 600,000",,"Sep 2, 2024","Jun 30, 2026",2,"€ 1,200,000",,Starter,F,RW,26,France,Hatayspor
+Pedrinho,No,"€ 11,538","€ 600,000",,"Jul 12, 2024","Jun 30, 2027",3,"€ 1,800,000",,Starter,F,LW,28,Brazil,Konyaspor
+Zeki Yavru,No,"€ 11,538","€ 600,000",,"Feb 7, 2025","Jun 30, 2026",2,"€ 1,200,000",,Starter,D,RB,33,Turkey,Samsunspor
+Jonathan Okoronkwo,No,"€ 11,538","€ 600,000",,"Jul 12, 2024","Jun 30, 2027",3,"€ 1,800,000",,Reserve,F,CF,21,Nigeria,Hatayspor
+Emrah Başsan,No,"€ 11,538","€ 600,000",,"Jul 5, 2023","Jun 30, 2025",1,"€ 600,000",,Starter,F,RW,32,Turkey,Sivasspor
+Erdoğan Yeşilyurt,No,"€ 11,538","€ 600,000",,"Jul 14, 2023","Jun 30, 2026",2,"€ 1,200,000",,Reserve,D,RB,31,Turkey,Antalyaspor
+Ramzi Safuri,No,"€ 11,538","€ 600,000",,"Sep 14, 2023","Jun 30, 2025",1,"€ 600,000",,Starter,F,AM,29,Israel,Antalyaspor
+Görkem Sağlam,No,"€ 11,538","€ 600,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 1,200,000",,Reserve,M,CM,26,Turkey,Hatayspor
+Dal Varesanovic,No,"€ 11,538","€ 600,000",,"Aug 10, 2023","Jun 30, 2026",2,"€ 1,200,000",,Reserve,F,AM,23,Bosnia-Herzegovina,Caykur Rizespor
+Abdulkadir Parmak,No,"€ 11,538","€ 600,000",,"Jan 31, 2024","Jun 30, 2025",1,"€ 600,000",,Starter,M,CM,30,Turkey,Hatayspor
+Christopher Lungoyi,No,"€ 11,538","€ 600,000",,"Sep 4, 2024","Jun 30, 2026",2,"€ 1,200,000",,Starter,F,LW,24,Switzerland,Gaziantep BB
+Deian Sorescu,No,"€ 11,346","€ 590,000",,"Aug 10, 2024","Jun 30, 2027",3,"€ 1,770,000",,Starter,F,RW,27,Romania,Gaziantep BB
+Enric Saborit,No,"€ 11,346","€ 590,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 590,000",,Reserve,D,CB,32,Spain,Gaziantep BB
+Francisco Calvo,No,"€ 11,154","€ 580,000",,"Sep 10, 2024","Jun 30, 2026",2,"€ 1,160,000",,Starter,D,CB,32,Costa Rica,Hatayspor
+Marko Jevtovic,No,"€ 11,154","€ 580,000",,"Jul 16, 2024","Jun 30, 2026",2,"€ 1,160,000",,Starter,M,DM,31,Serbia,Konyaspor
+Tim Jabol-Folcarelli,Yes,"€ 11,154","€ 580,000",,"Feb 11, 2025","Jun 30, 2029",5,"€ 2,900,000",,Reserve,M,CM,25,France,Trabzonspor
+Festy Ebosele,No,"€ 11,154","€ 580,000",,"Jan 31, 2025","Jun 30, 2028",4,"€ 2,320,000",,Reserve,D,RB,22,Ireland,Basaksehir
+Danijel Aleksic,No,"€ 11,154","€ 580,000",,"Aug 8, 2024","Jun 30, 2026",2,"€ 1,160,000",,Starter,F,AM,33,Serbia,Konyaspor
+Lionel Carole,No,"€ 11,154","€ 580,000",,"Jul 9, 2024","Jun 30, 2025",1,"€ 580,000",,Reserve,D,LB,33,France,Kayserispor
+David Akintola,No,"€ 10,577","€ 550,000",,"Feb 7, 2024","Jun 30, 2025",1,"€ 550,000",,Starter,F,RW,29,Nigeria,Caykur Rizespor
+Mustafa Eskihellaç,Yes,"€ 10,577","€ 550,000",,"Feb 7, 2025","Jun 30, 2027",3,"€ 1,650,000",,Starter,D,LB,27,Turkey,Trabzonspor
+Patryk Szysz,No,"€ 10,192","€ 530,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 530,000",,Reserve,F,RW,26,Poland,Basaksehir
+Volkan Babacan,No,"€ 10,192","€ 530,000",,"Jun 1, 2024","Jun 30, 2025",1,"€ 530,000",,Reserve,K,GK,36,Turkey,Basaksehir
+Joseph Attamah,No,"€ 10,192","€ 530,000",,"Jul 18, 2023","Jun 30, 2025",1,"€ 530,000",,Starter,D,CB,30,Ghana,Kayserispor
+Jakub Slowik,No,"€ 10,000","€ 520,000",,"Jan 22, 2024","Jun 30, 2025",1,"€ 520,000",,Starter,K,GK,33,Poland,Konyaspor
+Andreas Gianniotis,No,"€ 10,000","€ 520,000",,"Jun 5, 2025","Jun 30, 2027",3,"€ 1,560,000",,Starter,K,GK,32,Greece,Kasimpasa
+Soner Aydoğdu,No,"€ 10,000","€ 520,000",,"Jan 26, 2023","Jun 30, 2025",1,"€ 520,000",,Reserve,M,CM,34,Turkey,Samsunspor
+Tayfur Bingöl,No,"€ 9,615","€ 500,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 500,000",,Starter,D,RB,32,Turkey,Eyupspor
+Melih Kabasakal,No,"€ 9,615","€ 500,000",,"Jan 16, 2023","Jun 30, 2026",2,"€ 1,000,000",,Starter,M,DM,28,Turkey,Eyupspor
+Mortadha Ben Ouanes,No,"€ 9,615","€ 500,000",,"Jun 5, 2025","Jun 30, 2027",3,"€ 1,500,000",,Starter,F,LW,30,Tunisia,Kasimpasa
+Mateusz Lis,No,"€ 9,615","€ 500,000",,"Aug 22, 2024","Jun 30, 2027",3,"€ 1,500,000",,Starter,K,GK,27,Poland,Goztepe
+Eyüp Aydın,Yes,"€ 9,615","€ 500,000",,"Sep 15, 2023","Jun 30, 2026",2,"€ 1,000,000",,Reserve,M,CM,20,Germany,Galatasaray
+Semih Kılıçsoy,No,"€ 9,615","€ 500,000",,"Jan 2, 2024","Jun 30, 2028",4,"€ 2,000,000",,Reserve,F,CF,19,Turkey,Besiktas
+Filip Damjanovic,No,"€ 9,615","€ 500,000",,"Jan 24, 2024","Jun 30, 2026",2,"€ 1,000,000",,Reserve,D,CB,26,Serbia,Konyaspor
+Tayyip Sanuc,No,"€ 9,615","€ 500,000",,"Apr 26, 2024","Jun 30, 2027",3,"€ 1,500,000",,Reserve,D,CB,25,Turkey,Besiktas
+Rômulo,No,"€ 9,615","€ 500,000",,"Jan 22, 2025","Jun 30, 2028",4,"€ 2,000,000",,Reserve,F,CF,23,Brazil,Goztepe
+Nicholas Opoku,No,"€ 9,615","€ 500,000",,"Aug 16, 2024","Jun 30, 2026",2,"€ 1,000,000",,Starter,D,CB,27,Ghana,Kasimpasa
+Mamadou Fall,No,"€ 9,615","€ 500,000",,"Dec 12, 2023","Jun 30, 2027",3,"€ 1,500,000",,Starter,F,RW,33,Senegal,Kasimpasa
+Nikola Boranijasevic,No,"€ 9,615","€ 500,000",,"Aug 8, 2024","Jun 30, 2025",1,"€ 500,000",,Reserve,D,RB,32,Serbia,Konyaspor
+Okan Kocuk,No,"€ 9,615","€ 500,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 1,000,000",,Starter,K,GK,29,Turkey,Samsunspor
+Umut Meraş,No,"€ 9,615","€ 500,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 1,000,000",,Starter,D,LB,29,Turkey,Eyupspor
+Uros Radakovic,No,"€ 9,615","€ 500,000",,"Jul 6, 2024","Jun 30, 2026",2,"€ 1,000,000",,Reserve,D,CB,30,Serbia,Sivasspor
+Oleksandr Petrusenko,No,"€ 9,615","€ 500,000",,"Sep 13, 2024","Jun 30, 2026",2,"€ 1,000,000",,Reserve,M,DM,26,Ukraine,Antalyaspor
+Bünyamin Balcı,No,"€ 9,615","€ 500,000",,"Sep 16, 2023","Jun 30, 2027",3,"€ 1,500,000",,Starter,D,RB,24,Turkey,Antalyaspor
+Ali Yavuz Kol,No,"€ 9,615","€ 500,000",,"Jul 14, 2022","Jun 30, 2026",2,"€ 1,000,000",,Starter,F,LW,24,Turkey,Adana Demirspor
+Gökhan Akkan,No,"€ 9,615","€ 500,000",,"Sep 12, 2024","Jun 30, 2025",1,"€ 500,000",,Reserve,K,GK,30,Turkey,Bodrum
+Victor Hugo,No,"€ 9,615","€ 500,000",,"Aug 28, 2024","Jun 30, 2025",1,"€ 500,000",,Starter,M,CM,20,Brazil,Goztepe
+Achilleas Poungouras,No,"€ 9,615","€ 500,000",,"Aug 11, 2023","Jun 30, 2025",1,"€ 500,000",,Starter,M,DM,29,Greece,Sivasspor
+Ivan Brnic,No,"€ 9,615","€ 500,000",,"Feb 11, 2025","Jun 30, 2028",4,"€ 2,000,000",,Reserve,F,LW,23,Croatia,Basaksehir
+Celil Yüksel,No,"€ 9,615","€ 500,000",,"Feb 22, 2025","Jun 30, 2027",3,"€ 1,500,000",,Starter,M,CM,27,Turkey,Samsunspor
+Kenan Kodro,No,"€ 9,615","€ 500,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 500,000",,Reserve,F,CF,31,Bosnia-Herzegovina,Gaziantep BB
+Kartal Yılmaz,No,"€ 9,615","€ 500,000",,"Aug 9, 2024","Jun 30, 2025",1,"€ 500,000",,Starter,M,DM,24,Turkey,Kayserispor
+Metehan Baltacı,No,"€ 9,615","€ 500,000",,"Dec 10, 2024","Jun 30, 2028",4,"€ 2,000,000",,Reserve,D,CB,22,Turkey,Galatasaray
+Bahadır Öztürk,No,"€ 9,615","€ 500,000",,"Sep 16, 2023","Jun 30, 2026",2,"€ 1,000,000",,Starter,D,CB,29,Turkey,Antalyaspor
+Azizbek Turgunboev,No,"€ 9,231","€ 480,000",,"Feb 8, 2024","Jun 30, 2025",1,"€ 480,000",,Reserve,M,CM,30,Uzbekistan,Sivasspor
+Ali Karimi,No,"€ 9,231","€ 480,000",,"Feb 17, 2024","Jun 30, 2027",3,"€ 1,440,000",,Starter,M,CM,31,Iran,Kayserispor
+Rui Pedro,No,"€ 9,231","€ 480,000",,"Feb 9, 2024","Jun 30, 2026",2,"€ 960,000",,Reserve,F,AM,26,Portugal,Hatayspor
+Cláudio Winck,No,"€ 8,654","€ 450,000",,"Jun 5, 2025","Jun 30, 2027",3,"€ 1,350,000",,Starter,D,RB,31,Brazil,Kasimpasa
+Carlo Holse,No,"€ 8,654","€ 450,000",,"Sep 1, 2023","Jun 30, 2027",3,"€ 1,350,000",,Starter,F,AM,25,Denmark,Samsunspor
+Morten Bjørlo,No,"€ 8,654","€ 450,000",,"Feb 11, 2025","Jun 30, 2027",3,"€ 1,350,000",,Reserve,M,CM,29,Norway,Konyaspor
+Berkan Kutlu,Yes,"€ 8,654","€ 450,000",,"Jul 29, 2021","Jun 30, 2026",2,"€ 900,000",,Reserve,M,CM,27,Turkey,Galatasaray
+Caner Erkin,No,"€ 8,654","€ 450,000",,"Jul 20, 2023","Jun 30, 2025",1,"€ 450,000",,Reserve,D,LB,36,Turkey,Eyupspor
+Robin Yalçın,No,"€ 8,654","€ 450,000",,"Jul 12, 2023","Jun 30, 2025",1,"€ 450,000",,Starter,D,CB,31,Turkey,Eyupspor
+Cafú,No,"€ 8,654","€ 450,000",,"Aug 10, 2024","Jun 30, 2026",2,"€ 900,000",,Starter,M,CM,31,Portugal,Kasimpasa
+Kuryu Matsuki,No,"€ 8,654","€ 450,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 450,000",,Starter,F,AM,21,Japan,Goztepe
+Furkan Bayır,No,"€ 8,654","€ 450,000",,"Jan 28, 2025","Jun 30, 2028",4,"€ 1,800,000",,Reserve,D,CB,25,Turkey,Goztepe
+Marius,No,"€ 8,269","€ 430,000",,"Jul 7, 2023","Jun 30, 2026",2,"€ 860,000",,Starter,F,CF,27,Chad,Samsunspor
+Nanu,No,"€ 8,269","€ 430,000",,"Jul 11, 2023","Jun 30, 2025",1,"€ 430,000",,Reserve,D,RB,30,Guinea-Bissau,Samsunspor
+Yusuf Akçiçek,Yes,"€ 8,269","€ 430,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 1,720,000",,Reserve,D,CB,19,Turkey,Fenerbahce
+Joelson Fernandes,No,"€ 8,269","€ 430,000",,"Jul 11, 2023","Jun 30, 2026",2,"€ 860,000",,Starter,F,LW,21,Portugal,Hatayspor
+Matchoi Djaló,No,"€ 8,077","€ 420,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 1,260,000",,Reserve,F,AM,21,Portugal,Basaksehir
+Ahmed Ildız,No,"€ 8,077","€ 420,000",,"Jun 5, 2025","Jun 30, 2026",2,"€ 840,000",,Starter,M,CM,28,Turkey,Goztepe
+Ali Aytemur,No,"€ 8,077","€ 420,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 420,000",,Starter,D,CB,28,Turkey,Bodrum
+Arda Kızıldağ,No,"€ 8,077","€ 420,000",,"Jun 18, 2025","Jun 30, 2027",3,"€ 1,260,000",,Starter,D,CB,26,Turkey,Gaziantep BB
+Arif Boşluk,No,"€ 8,077","€ 420,000",,"Aug 4, 2023","Jun 30, 2028",4,"€ 1,680,000",,Reserve,D,LB,21,Turkey,Trabzonspor
+Arseniy Batagov,No,"€ 8,077","€ 420,000",,"Aug 6, 2024","Jun 30, 2028",4,"€ 1,680,000",,Starter,D,CB,22,Ukraine,Trabzonspor
+Berke Özer,No,"€ 8,077","€ 420,000",,"May 13, 2025","Jun 30, 2027",3,"€ 1,260,000",,Starter,K,GK,24,Turkey,Eyupspor
+Christophe Hérelle,No,"€ 8,077","€ 420,000",,"Jul 23, 2024","Jun 30, 2026",2,"€ 840,000",,Reserve,D,CB,32,Martinique,Bodrum
+Djalma Silva,No,"€ 8,077","€ 420,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 420,000",,Starter,D,LB,30,Brazil,Goztepe
+Efe Akman,No,"€ 8,077","€ 420,000",,"Jul 13, 2024","Jun 30, 2028",4,"€ 1,680,000",,Reserve,M,DM,18,Turkey,Galatasaray
+Efecan Karaca,No,"€ 8,077","€ 420,000",,"Jan 29, 2025","Jun 30, 2026",2,"€ 840,000",,Starter,F,AM,35,Turkey,Alanyaspor
+Emersonn,No,"€ 8,077","€ 420,000",,"Jan 22, 2025","Jun 30, 2029",5,"€ 2,100,000",,Reserve,F,CF,20,Brazil,Goztepe
+Héliton,No,"€ 8,077","€ 420,000",,"Jan 11, 2024","Jun 30, 2025",1,"€ 420,000",,Starter,D,CB,29,Brazil,Goztepe
+Jerome Opoku,No,"€ 8,077","€ 420,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 1,260,000",,Starter,D,CB,26,Ghana,Basaksehir
+Juan,No,"€ 8,077","€ 420,000",,"Aug 17, 2024","Jun 30, 2025",1,"€ 420,000",,Reserve,F,CF,22,Brazil,Goztepe
+Julian Jeanvier,No,"€ 8,077","€ 420,000",,"Sep 15, 2023","Jun 30, 2025",1,"€ 420,000",,Reserve,D,CB,32,Guinea,Kayserispor
+Kamil Ahmet Çörekçi,No,"€ 8,077","€ 420,000",,"Jun 1, 2023","Jun 30, 2025",1,"€ 420,000",,Reserve,D,RB,33,Turkey,Hatayspor
+Kubilay Kanatsızkuş,No,"€ 8,077","€ 420,000",,"Jun 1, 2024","Jun 30, 2025",1,"€ 420,000",,Reserve,F,CF,27,Turkey,Goztepe
+Nicolas Janvier,No,"€ 8,077","€ 420,000",,"Jul 4, 2023","Jun 30, 2026",2,"€ 840,000",,Reserve,M,CM,26,France,Alanyaspor
+Nuno Da Costa,No,"€ 8,077","€ 420,000",,"Sep 12, 2023","Jun 30, 2025",1,"€ 420,000",,Starter,F,CF,34,Cape Verde,Kasimpasa
+Ogün Bayrak,No,"€ 8,077","€ 420,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 420,000",,Starter,D,RB,26,Turkey,Goztepe
+Ömer Beyaz,No,"€ 8,077","€ 420,000",,"Sep 3, 2024","Jun 30, 2027",3,"€ 1,260,000",,Reserve,F,AM,21,Turkey,Basaksehir
+Ondrej Celustka,No,"€ 8,077","€ 420,000",,"Jul 8, 2024","Jun 30, 2025",1,"€ 420,000",,Starter,D,CB,35,Czech Republic,Bodrum
+Sadık Çiftpınar,No,"€ 8,077","€ 420,000",,"Jul 19, 2023","Jun 30, 2025",1,"€ 420,000",,Reserve,D,CB,32,Turkey,Kasimpasa
+Taha Altıkardeş,No,"€ 8,077","€ 420,000",,"Jul 4, 2023","Jun 30, 2026",2,"€ 840,000",,Reserve,D,CB,21,Turkey,Goztepe
+Tolga Ciğerci,No,"€ 8,077","€ 420,000",,"Jan 13, 2025","Jun 30, 2025",1,"€ 420,000",,Reserve,M,DM,32,Turkey,Sivasspor
+Vaclav Jurecka,No,"€ 8,077","€ 420,000",,"Sep 13, 2024","Jun 30, 2026",2,"€ 840,000",,Reserve,F,CF,30,Czech Republic,Caykur Rizespor
+Veysel Sarı,No,"€ 8,077","€ 420,000",,"Dec 31, 2024","Jun 30, 2026",2,"€ 840,000",,Starter,D,CB,36,Turkey,Antalyaspor
+Emmanuel Boateng,No,"€ 7,692","€ 400,000",,"Jan 16, 2024","Jun 30, 2026",2,"€ 800,000",,Reserve,M,CM,27,Ghana,Konyaspor
+Bilal Bayazıt,No,"€ 7,692","€ 400,000",,"Feb 4, 2023","Jun 30, 2026",2,"€ 800,000",,Starter,K,GK,25,Turkey,Kayserispor
+Hamidou Keyta,No,"€ 7,692","€ 400,000",,"Sep 10, 2024","Jun 30, 2026",2,"€ 800,000",,Reserve,F,LW,30,France,Konyaspor
+Ertuğrul Ersoy,No,"€ 7,692","€ 400,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 400,000",,Reserve,D,CB,27,Turkey,Gaziantep BB
+Gökhan Sazdağı,No,"€ 7,692","€ 400,000",,"Sep 15, 2023","Jun 30, 2026",2,"€ 800,000",,Starter,D,RB,30,Turkey,Kayserispor
+Yusuf Erdoğan,No,"€ 7,692","€ 400,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 800,000",,Starter,F,LW,32,Turkey,Konyaspor
+Muhammed Gümüşkaya,No,"€ 7,692","€ 400,000",,"Jan 29, 2025","Jun 30, 2025",1,"€ 400,000",,Reserve,F,AM,24,Turkey,Gaziantep BB
+Ibrahim Olawoyin,No,"€ 7,308","€ 380,000",,"Jan 12, 2023","Jun 30, 2026",2,"€ 760,000",,Starter,M,CM,27,Nigeria,Caykur Rizespor
+Casper Højer,No,"€ 7,115","€ 370,000",,"Sep 10, 2023","Jun 30, 2026",2,"€ 740,000",,Starter,D,LB,30,Denmark,Caykur Rizespor
+Kamil Piatkowski,No,"€ 6,923","€ 360,000",,"Jan 31, 2025","Jun 30, 2025",1,"€ 360,000",,Starter,D,CB,24,Poland,Kasimpasa
+Enes Keskin,No,"€ 6,731","€ 350,000",,"Jan 30, 2025","Jun 30, 2029",5,"€ 1,750,000",,Starter,M,CM,23,Turkey,Alanyaspor
+Fatih Aksoy,No,"€ 6,731","€ 350,000",,"Aug 13, 2020","Jun 30, 2025",1,"€ 350,000",,Starter,D,CB,27,Turkey,Alanyaspor
+Blaz Kramer,No,"€ 6,346","€ 330,000",,"Sep 12, 2024","Jun 30, 2027",3,"€ 990,000",,Starter,F,CF,28,Slovenia,Konyaspor
+Ogün Özçiçek,No,"€ 6,346","€ 330,000",,"Aug 8, 2024","Jun 30, 2027",3,"€ 990,000",,Reserve,M,DM,26,Turkey,Gaziantep BB
+İrfan Can Eğribayat,No,"€ 6,346","€ 330,000",,"Jul 1, 2023","Jun 30, 2027",3,"€ 990,000",,Starter,K,GK,26,Turkey,Fenerbahce
+Kenan Piric,No,"€ 6,346","€ 330,000",,"Jul 6, 2024","Jun 30, 2026",2,"€ 660,000",,Starter,K,GK,30,Bosnia-Herzegovina,Antalyaspor
+Josip Calusic,No,"€ 6,346","€ 330,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 660,000",,Reserve,D,CB,31,Croatia,Konyaspor
+Jhon Espinoza,No,"€ 6,346","€ 330,000",,"Sep 3, 2024","Jun 30, 2026",2,"€ 660,000",,Reserve,D,RB,25,Ecuador,Kasimpasa
+Yasin Özcan,No,"€ 6,346","€ 330,000",,"Jul 3, 2024","Jun 30, 2029",5,"€ 1,650,000",,Starter,D,CB,18,Turkey,Kasimpasa
+Guy-Marcelin Kilama,No,"€ 6,346","€ 330,000",,"Aug 3, 2023","Jun 30, 2026",2,"€ 660,000",,Starter,D,CB,25,Cameroon,Hatayspor
+Lubomir Satka,No,"€ 6,346","€ 330,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 660,000",,Starter,D,CB,29,Slovakia,Samsunspor
+Gökhan Gül,No,"€ 6,346","€ 330,000",,"Feb 8, 2023","Jun 30, 2025",1,"€ 330,000",,Reserve,M,DM,26,Turkey,Kasimpasa
+Godfrey Stephen,No,"€ 6,346","€ 330,000",,"Jul 30, 2024","Jun 30, 2026",2,"€ 660,000",,Reserve,D,LB,24,Nigeria,Gaziantep BB
+Martin Minchev,No,"€ 6,346","€ 330,000",,"Sep 9, 2023","Jun 30, 2026",2,"€ 660,000",,Reserve,F,CF,23,Bulgaria,Caykur Rizespor
+Thalisson,No,"€ 6,346","€ 330,000",,"Jul 17, 2024","Jun 30, 2027",3,"€ 990,000",,Reserve,D,CB,26,Brazil,Antalyaspor
+Melih İbrahimoğlu,No,"€ 6,346","€ 330,000",,"Jul 19, 2024","Jun 30, 2027",3,"€ 990,000",,Reserve,F,AM,24,Turkey,Konyaspor
+Taulant Seferi,No,"€ 6,346","€ 330,000",,"Aug 30, 2024","Jun 30, 2027",3,"€ 990,000",,Starter,F,CF,28,Albania,Bodrum
+Arlind Ajeti,No,"€ 6,346","€ 330,000",,"Sep 10, 2024","Jun 30, 2027",3,"€ 990,000",,Starter,D,CB,31,Albania,Bodrum
+Mert Yılmaz,No,"€ 6,346","€ 330,000",,"Feb 11, 2025","Jun 30, 2027",3,"€ 990,000",,Reserve,D,RB,25,Turkey,Antalyaspor
+Attila Mocsi,No,"€ 6,346","€ 330,000",,"Aug 25, 2023","Jun 30, 2027",3,"€ 990,000",,Starter,D,CB,24,Hungary,Caykur Rizespor
+Semih Güler,No,"€ 6,346","€ 330,000",,"Feb 11, 2025","Jun 30, 2027",3,"€ 990,000",,Reserve,D,CB,30,Turkey,Gaziantep BB
+Rúben Vezo,No,"€ 6,346","€ 330,000",,"Sep 6, 2024","Jun 30, 2025",1,"€ 330,000",,Starter,D,CB,30,Portugal,Eyupspor
+Doğan Erdoğan,No,"€ 6,346","€ 330,000",,"Jun 1, 2024","Jun 30, 2025",1,"€ 330,000",,Reserve,M,DM,28,Turkey,Goztepe
+Mustafa Hekimoğlu,No,"€ 6,346","€ 330,000",,"Feb 17, 2025","Jun 30, 2028",4,"€ 1,320,000",,Reserve,F,CF,17,Turkey,Besiktas
+Cemali Sertel,No,"€ 6,346","€ 330,000",,"Jul 12, 2024","Jun 30, 2025",1,"€ 330,000",,Starter,D,LB,25,Turkey,Hatayspor
+Chandrel Massanga,No,"€ 6,346","€ 330,000",,"Aug 29, 2023","Jun 30, 2027",3,"€ 990,000",,Starter,M,DM,25,Congo,Hatayspor
+Cyril Mandouki,No,"€ 6,346","€ 330,000",,"Jul 18, 2024","Jun 30, 2025",1,"€ 330,000",,Reserve,M,DM,33,Martinique,Gaziantep BB
+Deniz Ertaş,No,"€ 6,346","€ 330,000",,"Dec 20, 2023","Jun 30, 2027",3,"€ 990,000",,Reserve,K,GK,19,Turkey,Konyaspor
+Ömer Ali Şahiner,No,"€ 6,346","€ 330,000",,"Jun 28, 2025","Jun 30, 2026",2,"€ 660,000",,Starter,D,RB,33,Turkey,Basaksehir
+Erdal Rakip,No,"€ 6,154","€ 320,000",,"Jan 20, 2023","Jun 30, 2025",1,"€ 320,000",,Starter,M,CM,28,North Macedonia,Antalyaspor
+Lamine Diack,No,"€ 6,154","€ 320,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 320,000",,Reserve,M,DM,24,Senegal,Hatayspor
+Haris Hajradinovic,No,"€ 6,154","€ 320,000",,"Jun 24, 2022","Jun 30, 2026",2,"€ 640,000",,Starter,F,AM,30,Bosnia-Herzegovina,Kasimpasa
+Emre Taşdemir,No,"€ 5,769","€ 300,000",,"Aug 10, 2024","Jun 30, 2025",1,"€ 300,000",,Reserve,D,LB,29,Turkey,Gaziantep BB
+Anthony Uzodimma,No,"€ 5,769","€ 300,000",,"Jul 30, 2024","Jun 30, 2025",1,"€ 300,000",,Reserve,D,RB,25,Nigeria,Kayserispor
+Bengali-Fodé Koita,No,"€ 5,769","€ 300,000",,"Aug 27, 2024","Jun 30, 2025",1,"€ 300,000",,Reserve,F,CF,34,Guinea,Sivasspor
+Bruno Viana,No,"€ 5,769","€ 300,000",,"Aug 8, 2024","Jun 30, 2025",1,"€ 300,000",,Starter,D,CB,30,Brazil,Gaziantep BB
+Muhammet Taha Tepe,Yes,"€ 5,769","€ 300,000",,"Sep 7, 2022","Jun 30, 2027",3,"€ 900,000",,Reserve,K,GK,24,Turkey,Trabzonspor
+Soner Gönül,No,"€ 4,808","€ 250,000",,"May 30, 2025","Jun 30, 2026",2,"€ 500,000",,Reserve,D,LB,27,Turkey,Samsunspor
+Cengiz Demir,No,"€ 4,808","€ 250,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 250,000",,Reserve,D,CB,23,Turkey,Hatayspor
+Soner Dikmen,No,"€ 4,808","€ 250,000",,"Jul 6, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,M,CM,31,Turkey,Antalyaspor
+Sokratis Dioudis,No,"€ 4,808","€ 250,000",,"Jul 14, 2024","Jun 30, 2026",2,"€ 500,000",,Starter,K,GK,32,Greece,Gaziantep BB
+Prince Ampem,No,"€ 4,808","€ 250,000",,"Jul 19, 2023","Jun 30, 2027",3,"€ 750,000",,Starter,F,LW,26,Ghana,Eyupspor
+Aytaç Kara,No,"€ 4,808","€ 250,000",,"Aug 3, 2022","Jun 30, 2025",1,"€ 250,000",,Reserve,M,CM,31,Turkey,Kasimpasa
+Abdurrahim Dursun,No,"€ 4,808","€ 250,000",,"Sep 13, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,D,LB,26,Turkey,Antalyaspor
+Isaac Solet,No,"€ 4,808","€ 250,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 250,000",,Reserve,M,CM,23,Central African Republic,Goztepe
+Emrecan Bulut,No,"€ 4,808","€ 250,000",,"Aug 5, 2024","Jun 30, 2028",4,"€ 1,000,000",,Reserve,F,LW,22,Turkey,Caykur Rizespor
+Samba Camara,No,"€ 4,808","€ 250,000",,"Aug 7, 2024","Jun 30, 2025",1,"€ 250,000",,Reserve,D,CB,32,Mali,Sivasspor
+Salem M'Bakata,No,"€ 4,808","€ 250,000",,"Aug 8, 2023","Jun 30, 2026",2,"€ 500,000",,Reserve,D,RB,26,France,Gaziantep BB
+Ahmet Aslan,No,"€ 4,808","€ 250,000",,"Jan 11, 2024","Jun 30, 2028",4,"€ 1,000,000",,Starter,M,DM,23,Turkey,Bodrum
+Djordje Nikolic,No,"€ 4,808","€ 250,000",,"Jan 26, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,K,GK,27,Serbia,Sivasspor
+Diogo Sousa,No,"€ 4,808","€ 250,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 250,000",,Starter,K,GK,26,Portugal,Bodrum
+Kerim Alıcı,No,"€ 4,808","€ 250,000",,"Jul 9, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,D,RB,27,Turkey,Hatayspor
+Tunahan Taşçı,No,"€ 4,808","€ 250,000",,"Jul 9, 2024","Jun 30, 2027",3,"€ 750,000",,Reserve,F,RW,22,Turkey,Konyaspor
+Tolga Kalender,No,"€ 4,808","€ 250,000",,"Jan 11, 2021","Jun 30, 2025",1,"€ 250,000",,Starter,D,CB,23,Turkey,Adana Demirspor
+Zdravko Dimitrov,No,"€ 4,808","€ 250,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 750,000",,Reserve,F,LW,26,Bulgaria,Bodrum
+Novatus Miroshi,No,"€ 4,808","€ 250,000",,"Jul 23, 2024","Jun 30, 2028",4,"€ 1,000,000",,Starter,M,DM,22,Tanzania,Goztepe
+Tayfun Aydoğan,No,"€ 4,808","€ 250,000",,"Jul 25, 2023","Jun 30, 2026",2,"€ 500,000",,Starter,M,CM,28,Turkey,Adana Demirspor
+Quentin Daubin,No,"€ 4,808","€ 250,000",,"Jul 9, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,M,CM,29,France,Gaziantep BB
+Nazım Sangaré,No,"€ 4,808","€ 250,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 250,000",,Reserve,D,RB,30,Turkey,Goztepe
+Recep Niyaz,No,"€ 4,808","€ 250,000",,"Aug 1, 2024","Jun 30, 2025",1,"€ 250,000",,Reserve,F,AM,29,Turkey,Eyupspor
+Funsho Bamgboye,No,"€ 4,808","€ 250,000",,"Jul 5, 2024","Jun 30, 2026",2,"€ 500,000",,Starter,F,RW,26,Nigeria,Hatayspor
+Fredy,No,"€ 4,808","€ 250,000",,"Jul 21, 2024","Jun 30, 2026",2,"€ 500,000",,Starter,F,AM,34,Angola,Bodrum
+Umut Mert Toy,No,"€ 4,808","€ 250,000",,"Feb 5, 2025","Jun 30, 2029",5,"€ 1,250,000",,Reserve,D,CB,20,Turkey,Alanyaspor
+Yalçın Kayan,No,"€ 4,808","€ 250,000",,"Jan 13, 2025","Jun 30, 2028",4,"€ 1,000,000",,Reserve,M,CM,26,Turkey,Eyupspor
+Ertuğrul Çetin,No,"€ 4,808","€ 250,000",,"Jul 18, 2024","Jun 30, 2027",3,"€ 750,000",,Reserve,K,GK,21,Turkey,Fenerbahce
+Altin Zeqiri,No,"€ 4,808","€ 250,000",,"Aug 10, 2023","Jun 30, 2026",2,"€ 500,000",,Reserve,F,LW,24,Kosovo,Caykur Rizespor
+Visar Bekaj,No,"€ 4,808","€ 250,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 500,000",,Starter,K,GK,27,Kosovo,Hatayspor
+Ali Yeşilyurt,No,"€ 4,808","€ 250,000",,"Jan 7, 2025","Jun 30, 2028",4,"€ 1,000,000",,Reserve,D,CB,19,Turkey,Galatasaray
+Aksel Aktaş,No,"€ 4,808","€ 250,000",,"Feb 8, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,M,CM,25,Turkey,Adana Demirspor
+Louka Prip,No,"€ 4,808","€ 250,000",,"Aug 21, 2023","Jun 30, 2025",1,"€ 250,000",,Reserve,F,RW,27,Denmark,Konyaspor
+Bünyamin Balat,No,"€ 4,808","€ 250,000",,"Aug 2, 2021","Jun 30, 2026",2,"€ 500,000",,Reserve,F,AM,28,Turkey,Adana Demirspor
+Gökdeniz Gürpüz,No,"€ 4,808","€ 250,000",,"Jan 1, 2024","Jun 30, 2026",2,"€ 500,000",,Reserve,M,CM,18,Turkey,Galatasaray
+Gökdeniz Bayrakdar,No,"€ 4,808","€ 250,000",,"Jul 1, 2023","Jun 30, 2027",3,"€ 750,000",,Reserve,F,RW,23,Turkey,Bodrum
+Maestro,No,"€ 4,808","€ 250,000",,"Feb 8, 2024","Jun 30, 2026",2,"€ 500,000",,Starter,M,DM,21,Angola,Adana Demirspor
+Murat Paluli,No,"€ 4,423","€ 230,000",,"May 31, 2024","Jun 30, 2026",2,"€ 460,000",,Reserve,D,RB,30,Turkey,Sivasspor
+Furkan Soyalp,No,"€ 4,423","€ 230,000",,"Aug 25, 2022","Jun 30, 2025",1,"€ 230,000",,Reserve,M,CM,29,Turkey,Gaziantep BB
+Burak Yılmaz,No,"€ 4,423","€ 230,000",,"Jul 31, 2024","Jun 30, 2025",1,"€ 230,000",,Starter,D,CB,29,Turkey,Hatayspor
+Taha Şahin,No,"€ 4,231","€ 220,000",,"Jul 22, 2023","Jun 30, 2027",3,"€ 660,000",,Starter,D,RB,24,Turkey,Caykur Rizespor
+Ali Emre Yanar,No,"€ 4,231","€ 220,000",,"Jul 31, 2023","Jun 30, 2026",2,"€ 440,000",,Reserve,K,GK,26,Turkey,Kasimpasa
+Yusuf Barası,No,"€ 4,231","€ 220,000",,"Aug 26, 2023","Jun 30, 2026",2,"€ 440,000",,Reserve,F,CF,21,Turkey,Adana Demirspor
+Khusniddin Alikulov,No,"€ 4,231","€ 220,000",,"Aug 5, 2023","Jun 30, 2026",2,"€ 440,000",,Starter,D,CB,25,Uzbekistan,Caykur Rizespor
+Bekir Turaç Böke,No,"€ 3,846","€ 200,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 600,000",,Reserve,F,CF,25,Turkey,Sivasspor
+Hamza Akman,No,"€ 3,846","€ 200,000",,"Jan 17, 2025","Jun 30, 2028",4,"€ 800,000",,Reserve,M,CM,20,Turkey,Eyupspor
+Doğukan Özkan,No,"€ 3,846","€ 200,000",,"Feb 11, 2025","Jun 30, 2027",3,"€ 600,000",,Reserve,K,GK,25,Turkey,Antalyaspor
+Arda Ünyay,No,"€ 3,846","€ 200,000",,"Feb 11, 2025","Jun 30, 2028",4,"€ 800,000",,Reserve,D,CB,18,Turkey,Galatasaray
+Uğur Çiftçi,No,"€ 3,846","€ 200,000",,"Jun 6, 2022","Jun 30, 2027",3,"€ 600,000",,Starter,D,LB,32,Turkey,Sivasspor
+Jankat Yılmaz,No,"€ 3,846","€ 200,000",,"Jul 19, 2024","Jun 30, 2027",3,"€ 600,000",,Reserve,K,GK,20,Turkey,Galatasaray
+Jan Bieganski,No,"€ 3,846","€ 200,000",,"Aug 16, 2024","Jun 30, 2027",3,"€ 600,000",,Reserve,M,DM,22,Poland,Sivasspor
+Mohamed Hassan Fofana,No,"€ 3,269","€ 170,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 340,000",,Reserve,M,CM,19,Cote d'Ivoire,Basaksehir
+Mert Bayram,No,"€ 3,269","€ 170,000",,"Jul 19, 2024","Jun 30, 2029",5,"€ 850,000",,Reserve,K,GK,20,Turkey,Alanyaspor
+Talha Sarıarslan,No,"€ 3,269","€ 170,000",,"May 19, 2023","Jun 30, 2026",2,"€ 340,000",,Reserve,F,CF,21,Turkey,Kayserispor
+Onuralp Çevikkan,No,"€ 3,269","€ 170,000",,"Feb 8, 2024","Jun 30, 2028",4,"€ 680,000",,Reserve,K,GK,19,Turkey,Trabzonspor
+Nuno Lima,No,"€ 3,269","€ 170,000",,"Sep 14, 2023","Jun 30, 2027",3,"€ 510,000",,Starter,D,CB,23,Portugal,Alanyaspor
+Deniz Dilmen,No,"€ 3,269","€ 170,000",,"Aug 3, 2023","Jun 30, 2027",3,"€ 510,000",,Reserve,K,GK,19,Turkey,Basaksehir
+Enis Destan,Yes,"€ 3,269","€ 170,000",,"Feb 8, 2024","Jun 30, 2028",4,"€ 680,000",,Reserve,F,CF,22,Turkey,Trabzonspor
+Ayberk Karapo,No,"€ 3,269","€ 170,000",,"Sep 13, 2024","Jun 30, 2025",1,"€ 170,000",,Reserve,D,CB,20,Turkey,Caykur Rizespor
+Philippe Paulin Keny,No,"€ 3,269","€ 170,000",,"Aug 29, 2022","Jun 30, 2025",1,"€ 170,000",,Starter,F,CF,25,Senegal,Basaksehir
+Ali Şahin Yılmaz,No,"€ 3,269","€ 170,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 510,000",,Reserve,D,CB,21,Turkey,Trabzonspor
+Sarp Yavrucu,No,"€ 3,269","€ 170,000",,"Dec 15, 2023","Jun 30, 2027",3,"€ 510,000",,Reserve,F,CF,19,Turkey,Kasimpasa
+İsmail Köybaşı,No,"€ 3,269","€ 170,000",,"May 21, 2024","Jun 30, 2025",1,"€ 170,000",,Reserve,D,LB,35,Turkey,Goztepe
+Abdurrahman Üresin,No,"€ 2,885","€ 150,000",,"Jan 25, 2025","Jun 30, 2028",4,"€ 600,000",,Reserve,D,RB,21,Turkey,Konyaspor
+Atakan Ordu,No,"€ 2,885","€ 150,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 150,000",,Reserve,K,GK,19,Turkey,Galatasaray
+Arda Kılıç,No,"€ 2,885","€ 150,000",,"Apr 26, 2024","Jun 30, 2028",4,"€ 600,000",,Reserve,F,LW,20,Turkey,Besiktas
+Göktuğ Baytekin,No,"€ 2,885","€ 150,000",,"Apr 26, 2024","Jun 30, 2027",3,"€ 450,000",,Reserve,K,GK,20,Turkey,Besiktas
+Rıdvan Dönmez,No,"€ 2,885","€ 150,000",,"Sep 6, 2024","Jun 30, 2029",5,"€ 750,000",,Reserve,D,LB,21,Turkey,Konyaspor
+Musah Mohammed,No,"€ 2,885","€ 150,000",,"Oct 4, 2023","Jun 30, 2028",4,"€ 600,000",,Reserve,M,DM,23,Ghana,Bodrum
+Pedro Brazão,No,"€ 2,885","€ 150,000",,"Jul 26, 2023","Jun 30, 2026",2,"€ 300,000",,Reserve,F,RW,22,Portugal,Bodrum
+Ahmet Yıldırım,No,"€ 2,885","€ 150,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 450,000",,Reserve,K,GK,18,Turkey,Trabzonspor
+Buluthan Bulut,No,"€ 2,885","€ 150,000",,"Aug 2, 2021","Jun 30, 2026",2,"€ 300,000",,Reserve,M,CM,22,Turkey,Alanyaspor
+Kaan Akyazı,No,"€ 2,885","€ 150,000",,"Feb 3, 2025","Jun 30, 2028",4,"€ 600,000",,Reserve,F,LW,19,Turkey,Konyaspor
+Cenk Şen,No,"€ 2,885","€ 150,000",,"Aug 1, 2021","Jun 30, 2026",2,"€ 300,000",,Starter,D,LB,24,Turkey,Bodrum
+Yusuf Kurt,No,"€ 2,885","€ 150,000",,"Aug 23, 2024","Jun 30, 2025",1,"€ 150,000",,Reserve,F,AM,22,Turkey,Alanyaspor
+Alaaddin Okumuş,No,"€ 2,885","€ 150,000",,"May 31, 2024","Jun 30, 2026",2,"€ 300,000",,Starter,D,RB,29,Turkey,Sivasspor
+Abdullah Yiğiter,No,"€ 2,885","€ 150,000",,"Jul 28, 2024","Jun 30, 2027",3,"€ 450,000",,Reserve,K,GK,24,Turkey,Antalyaspor
+Baran Sarka,No,"€ 2,885","€ 150,000",,"Aug 2, 2023","Jun 30, 2027",3,"€ 450,000",,Reserve,F,AM,23,Turkey,Hatayspor
+Mithat Pala,No,"€ 2,885","€ 150,000",,"Aug 18, 2022","Jun 30, 2026",2,"€ 300,000",,Starter,M,CM,24,Turkey,Caykur Rizespor
+Anel Husic,No,"€ 2,885","€ 150,000",,"Feb 10, 2025","Jun 30, 2025",1,"€ 150,000",,Starter,D,CB,23,Switzerland,Gaziantep BB
+Erdem Çalık,No,"€ 2,885","€ 150,000",,"Feb 11, 2025","Jun 30, 2029",5,"€ 750,000",,Reserve,M,CM,18,Turkey,Eyupspor
+Fahri Ay,No,"€ 2,885","€ 150,000",,"Aug 13, 2024","Jun 30, 2028",4,"€ 600,000",,Reserve,M,CM,20,Turkey,Besiktas
+Efe Doğan,No,"€ 2,885","€ 150,000",,"Feb 7, 2025","Jun 30, 2029",5,"€ 750,000",,Reserve,K,GK,20,Turkey,Caykur Rizespor
+Emrecan Terzi,No,"€ 2,885","€ 150,000",,"Apr 26, 2024","Jun 30, 2027",3,"€ 450,000",,Reserve,D,LB,21,Turkey,Besiktas
+İsmail Can Fidan,No,"€ 2,885","€ 150,000",,"Jul 1, 2023","Jun 30, 2028",4,"€ 600,000",,Reserve,M,CM,21,Turkey,Eyupspor
+Salih Malkoçoğlu,No,"€ 2,885","€ 150,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 600,000",,Reserve,M,DM,19,Turkey,Trabzonspor
+Mustafa Burak Bozan,No,"€ 2,885","€ 150,000",,"Feb 27, 2024","Jun 30, 2026",2,"€ 300,000",,Reserve,K,GK,24,Turkey,Gaziantep BB
+İzzet Erdal,No,"€ 2,885","€ 150,000",,"Jan 28, 2025","Jun 30, 2027",3,"€ 450,000",,Reserve,D,CB,19,Turkey,Gaziantep BB
+Eray Korkmaz,No,"€ 2,885","€ 150,000",,"Jul 21, 2023","Jun 30, 2026",2,"€ 300,000",,Reserve,D,RB,21,Turkey,Caykur Rizespor
+Anthony Dennis,No,"€ 2,885","€ 150,000",,"May 23, 2024","Jun 30, 2027",3,"€ 450,000",,Starter,M,DM,20,Nigeria,Goztepe
+Taylan Aydın,No,"€ 2,500","€ 130,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 130,000",,Reserve,D,CB,19,Turkey,Kasimpasa
+Yusuf Yılmaz,No,"€ 2,500","€ 130,000",,"Aug 14, 2024","Jun 30, 2028",4,"€ 520,000",,Reserve,K,GK,18,Turkey,Basaksehir
+Tarık Çetin,No,"€ 2,500","€ 130,000",,"Sep 16, 2022","Jun 30, 2025",1,"€ 130,000",,Starter,K,GK,28,Turkey,Caykur Rizespor
+Jakub Kaluzinski,No,"€ 2,500","€ 130,000",,"Jul 14, 2023","Jun 30, 2026",2,"€ 260,000",,Starter,M,DM,22,Poland,Antalyaspor
+Demir Sarıcalı,No,"€ 2,500","€ 130,000",,"Aug 6, 2024","Jun 30, 2027",3,"€ 390,000",,Reserve,K,GK,20,Turkey,Hatayspor
+Yasir Subaşı,No,"€ 2,500","€ 130,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 130,000",,Reserve,D,LB,29,Turkey,Konyaspor
+Ali Yıldız,No,"€ 2,500","€ 130,000",,"Aug 6, 2024","Jun 30, 2028",4,"€ 520,000",,Reserve,M,CM,17,Turkey,Hatayspor
+Abdulsamet Burak,No,"€ 2,500","€ 130,000",,"Jul 8, 2022","Jun 30, 2025",1,"€ 130,000",,Starter,D,CB,28,Turkey,Adana Demirspor
+Arif Kocaman,No,"€ 2,500","€ 130,000",,"Jan 14, 2022","Jun 30, 2026",2,"€ 260,000",,Reserve,D,CB,21,Turkey,Kayserispor
+Yunus Emre Çift,No,"€ 2,500","€ 130,000",,"Jul 29, 2022","Jun 30, 2027",3,"€ 390,000",,Reserve,D,CB,21,Turkey,Samsunspor
+Uğurcan Yazğılı,No,"€ 2,308","€ 120,000",,"Jul 6, 2024","Jun 30, 2026",2,"€ 240,000",,Reserve,D,CB,25,Turkey,Konyaspor
+Emirhan Yiğit,No,"€ 2,308","€ 120,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 120,000",,Reserve,F,RW,18,Turkey,Kasimpasa
+Ali Şaşal Vural,No,"€ 2,308","€ 120,000",,"May 31, 2024","Jun 30, 2026",2,"€ 240,000",,Starter,K,GK,34,Turkey,Sivasspor
+Emirhan Başyiğit,No,"€ 2,308","€ 120,000",,"Jul 29, 2024","Jun 30, 2026",2,"€ 240,000",,Reserve,D,CB,19,Turkey,Sivasspor
+Batuhan Yavuz,No,"€ 2,308","€ 120,000",,"Feb 8, 2025","Jun 30, 2029",5,"€ 600,000",,Reserve,D,RB,19,Turkey,Alanyaspor
+Mehmet Kuzucu,No,"€ 2,308","€ 120,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 120,000",,Reserve,F,LW,21,Turkey,Gaziantep BB
+Arda Berk Özüarap,No,"€ 2,308","€ 120,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 480,000",,Reserve,D,RB,19,Turkey,Besiktas
+Atakan Müjde,No,"€ 2,308","€ 120,000",,"Feb 5, 2025","Jun 30, 2027",3,"€ 360,000",,Reserve,M,CM,21,Turkey,Kasimpasa
+Emir Yaşar,No,"€ 2,308","€ 120,000",,"Apr 17, 2024","Jun 30, 2028",4,"€ 480,000",,Reserve,K,GK,19,Turkey,Besiktas
+Haqi Osman,No,"€ 1,923","€ 100,000",,"Aug 8, 2023","Jun 30, 2027",3,"€ 300,000",,Reserve,F,LW,22,Ghana,Bodrum
+Hüseyin Maldar,No,"€ 1,923","€ 100,000",,"May 27, 2025","Jun 30, 2029",5,"€ 500,000",,Reserve,F,RW,18,Turkey,Eyupspor
+Oğulcan Ülgün,No,"€ 1,923","€ 100,000",,"May 2, 2024","Jun 30, 2026",2,"€ 200,000",,Starter,M,DM,26,Turkey,Konyaspor
+Ege Bilsel,No,"€ 1,923","€ 100,000",,"Jan 23, 2024","Jun 30, 2028",4,"€ 400,000",,Reserve,F,LW,21,Turkey,Bodrum
+Adnan Aktaş,No,"€ 1,923","€ 100,000",,"Jul 1, 2023","Jun 30, 2026",2,"€ 200,000",,Reserve,D,LB,18,Turkey,Kasimpasa
+Taha Tosun,No,"€ 1,923","€ 100,000",,"Jul 1, 2023","Jun 30, 2027",3,"€ 300,000",,Reserve,K,GK,19,Turkey,Samsunspor
+Lasse Nielsen,No,"€ 1,923","€ 100,000",,"Aug 22, 2023","Jun 30, 2025",1,"€ 100,000",,Starter,D,CB,37,Denmark,Goztepe
+Ahmet Daş,No,"€ 1,923","€ 100,000",,"Feb 6, 2025","Jun 30, 2028",4,"€ 400,000",,Reserve,K,GK,24,Turkey,Konyaspor
+Süleyman Özdamar,No,"€ 1,923","€ 100,000",,"Sep 7, 2023","Jun 30, 2025",1,"€ 100,000",,Reserve,D,CB,31,Turkey,Bodrum
+Taşkın İlter,No,"€ 1,923","€ 100,000",,"Sep 11, 2024","Jun 30, 2026",2,"€ 200,000",,Reserve,M,DM,30,Azerbaijan,Eyupspor
+Sinan Gümüş,No,"€ 1,923","€ 100,000",,"Jan 11, 2024","Jun 30, 2025",1,"€ 100,000",,Reserve,F,RW,31,Turkey,Eyupspor
+Eren Altıntaş,No,"€ 1,923","€ 100,000",,"Aug 5, 2023","Jun 30, 2028",4,"€ 400,000",,Reserve,F,AM,20,Turkey,Alanyaspor
+Üzeyir Ergün,No,"€ 1,923","€ 100,000",,"Jul 15, 2023","Jun 30, 2025",1,"€ 100,000",,Reserve,D,RB,32,Turkey,Bodrum
+Ziya Erdal,No,"€ 1,923","€ 100,000",,"Aug 8, 2024","Jun 30, 2025",1,"€ 100,000",,Reserve,D,LB,37,Turkey,Sivasspor
+Mustafa Erdilman,No,"€ 1,923","€ 100,000",,"Jan 23, 2024","Jun 30, 2028",4,"€ 400,000",,Reserve,M,CM,21,Turkey,Bodrum
+Celal Dumanlı,No,"€ 1,731","€ 90,000",,"Sep 7, 2023","Jun 30, 2025",1,"€ 90,000",,Reserve,F,CF,30,Turkey,Bodrum
+Breyton Fougeu,No,"€ 1,731","€ 90,000",,"Jan 30, 2024","Jun 30, 2026",2,"€ 180,000",,Reserve,F,CF,21,France,Adana Demirspor
+Murat Eser,No,"€ 1,538","€ 80,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 320,000",,Reserve,K,GK,19,Turkey,Adana Demirspor
+Muhammet Ali Özbaskıcı,No,"€ 1,538","€ 80,000",,"Jun 1, 2024","Jun 30, 2029",5,"€ 400,000",,Reserve,M,CM,19,Turkey,Samsunspor
+Salih Kavrazlı,No,"€ 1,538","€ 80,000",,"Jul 7, 2022","Jun 30, 2025",1,"€ 80,000",,Reserve,F,LW,22,Turkey,Adana Demirspor
+Kadir Karayiğit,No,"€ 1,538","€ 80,000",,"Jul 1, 2024","Jun 30, 2029",5,"€ 400,000",,Reserve,D,RB,19,Turkey,Adana Demirspor
+Bedirhan Çetin,No,"€ 1,538","€ 80,000",,"Nov 22, 2024","Jun 30, 2030",6,"€ 480,000",,Reserve,D,CB,18,Turkey,Samsunspor
+Emre Gökay,No,"€ 1,538","€ 80,000",,"Dec 1, 2022","Jun 30, 2025",1,"€ 80,000",,Reserve,F,RW,18,Turkey,Sivasspor
+Emre Uzun,No,"€ 1,538","€ 80,000",,"Apr 6, 2022","Jun 30, 2025",1,"€ 80,000",,Reserve,F,AM,19,Turkey,Antalyaspor
+Mevlüthan Ekelik,No,"€ 1,538","€ 80,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 80,000",,Reserve,M,CM,20,Turkey,Antalyaspor
+Vedat Karakuş,No,"€ 1,538","€ 80,000",,"Jul 8, 2022","Jun 30, 2025",1,"€ 80,000",,Reserve,K,GK,26,Turkey,Adana Demirspor
+Halil Yeral,No,"€ 1,538","€ 80,000",,"Jan 26, 2023","Jun 30, 2025",1,"€ 80,000",,Reserve,K,GK,25,Turkey,Samsunspor
+Muhamed Buljubasic,No,"€ 1,346","€ 70,000",,"Jul 29, 2024","Jun 30, 2028",4,"€ 280,000",,Reserve,M,CM,20,Bosnia-Herzegovina,Caykur Rizespor
+Sinan Kaya,No,"€ 1,346","€ 70,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 140,000",,Reserve,F,LW,18,Turkey,Sivasspor
+Emir Dadük,No,"€ 1,346","€ 70,000",,"Sep 26, 2024","Jun 30, 2028",4,"€ 280,000",,Reserve,K,GK,16,Turkey,Hatayspor
+Emircan Seçgin,No,"€ 1,346","€ 70,000",,"Sep 12, 2024","Jun 30, 2025",1,"€ 70,000",,Reserve,K,GK,22,Turkey,Goztepe
+Melih Bostan,No,"€ 1,346","€ 70,000",,"Jul 26, 2024","Jun 30, 2027",3,"€ 210,000",,Reserve,F,CF,20,Turkey,Konyaspor
+Egemen Aydın,No,"€ 1,346","€ 70,000",,"Dec 26, 2024","Jun 30, 2027",3,"€ 210,000",,Reserve,K,GK,17,Turkey,Konyaspor
+Nurettin Korkmaz,No,"€ 1,346","€ 70,000",,"Jul 13, 2021","Jun 30, 2025",1,"€ 70,000",,Reserve,F,LW,22,Turkey,Kayserispor
+Ömürcan Artan,No,"€ 1,346","€ 70,000",,"Jul 1, 2022","Jun 30, 2025",1,"€ 70,000",,Reserve,D,RB,25,Turkey,Gaziantep BB
+Arda Kurtulan,No,"€ 1,346","€ 70,000",,"Jul 14, 2022","Jun 30, 2025",1,"€ 70,000",,Starter,D,RB,22,Albania,Adana Demirspor
+Elano Yegen,No,"€ 1,154","€ 60,000",,"Feb 1, 2023","Jun 30, 2026",2,"€ 120,000",,Reserve,D,CB,22,Turkey,Samsunspor
+Talha Şeker,No,"€ 1,154","€ 60,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 120,000",,Reserve,M,CM,18,Turkey,Sivasspor
+Erkan Değişmez,No,"€ 1,154","€ 60,000",,"Jul 8, 2024","Jun 30, 2025",1,"€ 60,000",,Reserve,M,DM,38,Turkey,Bodrum
+Yunus Atakaya,No,"€ 1,154","€ 60,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 180,000",,Reserve,D,CB,20,Turkey,Kasimpasa
+Erdem Gökçe,No,"€ 1,154","€ 60,000",,"Jul 1, 2022","Jun 30, 2027",3,"€ 180,000",,Reserve,D,RB,21,Turkey,Eyupspor
+Bilal Güven,No,"€ 1,154","€ 60,000",,"Jul 1, 2024","Jun 30, 2028",4,"€ 240,000",,Reserve,M,CM,20,Turkey,Bodrum
+Birkan Tetik,No,"€ 1,154","€ 60,000",,"Aug 1, 2023","Jun 30, 2026",2,"€ 120,000",,Reserve,K,GK,29,Turkey,Eyupspor
+Kaan Sarman,No,"€ 1,154","€ 60,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 120,000",,Reserve,K,GK,18,Turkey,Sivasspor
+Tunahan Akpınar,No,"€ 1,154","€ 60,000",,"Jan 23, 2024","Jun 30, 2028",4,"€ 240,000",,Reserve,M,CM,23,Turkey,Bodrum
+Berhan Deniz,No,"€ 1,154","€ 60,000",,"Feb 8, 2024","Jun 30, 2028",4,"€ 240,000",,Reserve,F,CF,20,Turkey,Samsunspor
+Doğanay Avcı,No,"€ 1,154","€ 60,000",,"Sep 13, 2024","Jun 30, 2028",4,"€ 240,000",,Reserve,F,LW,19,Turkey,Caykur Rizespor
+Hamza Güreler,No,€ 962,"€ 50,000",,"Jan 22, 2024","Jun 30, 2026",2,"€ 100,000",,Reserve,D,CB,18,Turkey,Basaksehir
+Eray Özbek,No,€ 962,"€ 50,000",,"Jul 1, 2022","Jun 30, 2026",2,"€ 100,000",,Reserve,F,AM,22,Turkey,Kayserispor
+Taha Osman Özmert,No,€ 962,"€ 50,000",,"Oct 20, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,F,LW,18,Turkey,Antalyaspor
+Arda Usluoğlu,No,€ 962,"€ 50,000",,"Sep 13, 2024","Jun 30, 2027",3,"€ 150,000",,Reserve,F,CF,18,Turkey,Alanyaspor
+Enes Öğrüce,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 150,000",,Reserve,M,CM,17,Turkey,Bodrum
+Sinan Alkaş,No,€ 962,"€ 50,000",,"Sep 30, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,F,CF,18,Turkey,Kasimpasa
+Baran Gezek,No,€ 962,"€ 50,000",,"Dec 4, 2023","Jun 30, 2028",4,"€ 200,000",,Reserve,M,DM,19,Turkey,Kayserispor
+Batuhan Özgan,No,€ 962,"€ 50,000",,"May 3, 2024","Jun 30, 2026",2,"€ 100,000",,Reserve,D,CB,18,Turkey,Kayserispor
+Mehmet Albayrak,No,€ 962,"€ 50,000",,"Sep 1, 2023","Jun 30, 2027",3,"€ 150,000",,Reserve,D,CB,21,Turkey,Sivasspor
+Şamil Öztürk,No,€ 962,"€ 50,000",,"Dec 4, 2023","Jun 30, 2028",4,"€ 200,000",,Reserve,K,GK,19,Turkey,Kayserispor
+Bilal Ceylan,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,D,CB,20,Turkey,Kayserispor
+Amar Gerxhaliu,No,€ 962,"€ 50,000",,"Jul 1, 2022","Jun 30, 2026",2,"€ 100,000",,Reserve,D,CB,22,Kosovo,Antalyaspor
+Alp Köseer,No,€ 962,"€ 50,000",,"Jul 1, 2022","Jun 30, 2027",3,"€ 150,000",,Reserve,K,GK,22,Turkey,Eyupspor
+Rüzgar Adıyaman,No,€ 962,"€ 50,000",,"Jan 11, 2024","Jun 30, 2026",2,"€ 100,000",,Reserve,K,GK,18,Turkey,Bodrum
+Ege Albayrak,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,K,GK,17,Turkey,Kasimpasa
+Burak Enes Yıkıcı,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2027",3,"€ 150,000",,Reserve,F,AM,20,Turkey,Gaziantep BB
+Burak İngenç,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,M,CM,18,Turkey,Antalyaspor
+Burhan Ersoy,No,€ 962,"€ 50,000",,"Jul 1, 2023","Jun 30, 2025",1,"€ 50,000",,Starter,D,CB,21,Turkey,Adana Demirspor
+Emir Enes Araz,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 100,000",,Reserve,F,AM,18,Turkey,Goztepe
+Habil Özbakır,No,€ 962,"€ 50,000",,"Aug 29, 2024","Jun 30, 2027",3,"€ 150,000",,Reserve,D,CB,20,Turkey,Caykur Rizespor
+Halil Bağcı,No,€ 962,"€ 50,000",,"Jan 19, 2024","Jun 30, 2026",2,"€ 100,000",,Reserve,K,GK,21,Turkey,Gaziantep BB
+Ozan Demirbağ,No,€ 962,"€ 50,000",,"Feb 3, 2024","Jun 30, 2026",2,"€ 100,000",,Starter,F,CF,17,Turkey,Adana Demirspor
+Deniz Dönmezer,No,€ 962,"€ 50,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 100,000",,Starter,K,GK,16,Turkey,Adana Demirspor
+Kerem Ersunar,No,€ 962,"€ 50,000",,"Jan 23, 2024","Jun 30, 2028",4,"€ 200,000",,Reserve,K,GK,21,Turkey,Bodrum
+Osman Kaynak,No,€ 962,"€ 50,000",,"Oct 28, 2024","Jun 30, 2025",1,"€ 50,000",,Reserve,F,RW,18,Turkey,Adana Demirspor
+İzzet Çelik,No,€ 962,"€ 50,000",,"Jun 1, 2023","Jun 30, 2025",1,"€ 50,000",,Starter,F,AM,20,Turkey,Adana Demirspor
+Yusuf Özdemir,No,€ 962,"€ 50,000",,"Sep 25, 2023","Jun 30, 2028",4,"€ 200,000",,Reserve,D,LB,24,Turkey,Alanyaspor
+Yusuf Karagöz,No,€ 962,"€ 50,000",,"Feb 8, 2022","Jun 30, 2027",3,"€ 150,000",,Reserve,K,GK,25,Turkey,Alanyaspor
+Oğulcan Başol,No,€ 962,"€ 50,000",,"Nov 11, 2024","Jun 30, 2028",4,"€ 200,000",,Reserve,D,CB,19,Turkey,Bodrum
+Oğuzhan Aksoy,No,€ 962,"€ 50,000",,"Nov 19, 2024","Jun 30, 2027",3,"€ 150,000",,Reserve,F,RW,18,Turkey,Sivasspor
+Ege Yıldırım,No,€ 962,"€ 50,000",,"Jul 31, 2023","Jun 30, 2026",2,"€ 100,000",,Reserve,D,CB,17,Turkey,Goztepe
+Arda Özçimen,No,€ 769,"€ 40,000",,"Mar 3, 2023","Jun 30, 2026",2,"€ 80,000",,Reserve,K,GK,23,Turkey,Goztepe
+Efe Berat Törüz,No,€ 769,"€ 40,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 80,000",,Reserve,K,GK,18,Turkey,Samsunspor
+Alper Efe Pazar,No,€ 769,"€ 40,000",,"Nov 22, 2024","Jun 30, 2030",6,"€ 240,000",,Reserve,M,CM,20,Turkey,Samsunspor
+Yaman Suakar,No,€ 577,"€ 30,000",,"Jul 1, 2024","Jun 30, 2025",1,"€ 30,000",,Reserve,M,CM,15,Turkey,Kasimpasa
+Selimcan Temel,No,€ 577,"€ 30,000",,"Jan 21, 2022","Jun 30, 2026",2,"€ 60,000",,Reserve,M,DM,24,Turkey,Hatayspor
+Şant Kazancı,No,€ 577,"€ 30,000",,"Jul 1, 2024","Jun 30, 2026",2,"€ 60,000",,Reserve,K,GK,16,Turkey,Kasimpasa
+Ognjen Mimovic,No,,,,"Jan 31, 2025","Jun 30, 2029",5,,,Reserve,D,RB,20,Serbia,Fenerbahce
+Allan Saint-Maximin,Yes,,,,"Jul 16, 2024","Jun 30, 2025",1,,,Reserve,F,LW,27,France,Fenerbahce
+Wilfried Zaha,No,,,,"Jul 24, 2023","Jun 30, 2026",2,,,Reserve,F,LW,31,Cote d'Ivoire,Galatasaray
